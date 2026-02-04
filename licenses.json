@@ -1,0 +1,10 @@
+{
+  "servers": [
+     {
+     "ip": "45.88.9.35",
+       "resource": "Codehub_Core",
+      "owner_name": "يزن البخيت",
+       "status": "active"
+     }
+  ],
+}
