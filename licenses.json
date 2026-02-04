@@ -1,10 +1,16 @@
 {
   "servers": [
      {
-     "ip": "45.88.9.35",
-       "resource": "Codehub_Core",
-      "owner_name": "يزن البخيت",
-       "status": "active"
-     }
+        "owner_name": "CodeHub Files V3",
+        "ip": "45.88.9.35",
+        "resource": "Codehub_Core",
+        "status": "active"
+     },
+     {
+        "owner_name": "محافظة الرس",
+        "ip": "194.110.12.225",
+        "resource": "Codehub_Core",
+        "status": "active"
+     },
   ],
 }
