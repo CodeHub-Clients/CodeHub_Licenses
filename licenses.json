@@ -42,5 +42,11 @@
         "resource": "Codehub_Core",
         "status": "active"
      },
+     {
+        "owner_name": "مدينة العوجا",
+        "ip": "45.135.201.234",
+        "resource": "Codehub_Core",
+        "status": "active"
+     },
   ],
 }
