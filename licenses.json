@@ -7,6 +7,12 @@
         "status": "active"
      },
      {
+        "owner_name": "CodeHub Files V3 Eslam Local",
+        "ip": "196.128.213.13",
+        "resource": "Codehub_Core",
+        "status": "active"
+     },
+     {
         "owner_name": "محافظة الرس",
         "ip": "194.110.12.225",
         "resource": "Codehub_Core",
@@ -51,6 +57,30 @@
      {
         "owner_name": "مقاطعة الـ91",
         "ip": "31.6.50.180",
+        "resource": "Codehub_Core",
+        "status": "active"
+     },
+     {
+        "owner_name": "مقاطعة الظل",
+        "ip": "185.234.75.248",
+        "resource": "Codehub_Core",
+        "status": "active"
+     },
+     {
+        "owner_name": "مقاطعة نيولوس",
+        "ip": "194.56.226.37",
+        "resource": "Codehub_Core",
+        "status": "active"
+     },
+     {
+        "owner_name": "مقاطعة السمو",
+        "ip": "2.57.19.120",
+        "resource": "Codehub_Core",
+        "status": "active"
+     },
+     {
+        "owner_name": "مقاطعة النخيل",
+        "ip": "77.83.242.12",
         "resource": "Codehub_Core",
         "status": "active"
      },
