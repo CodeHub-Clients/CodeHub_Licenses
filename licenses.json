@@ -10,6 +10,9 @@
         "owner_name": "CodeHub Files V3 Eslam Local",
         "ip": "196.128.243.78",
         "resource": "Codehub_Core",
+        "resources": [
+          "ch_leojob"
+        ],
         "status": "active"
      },
      {
