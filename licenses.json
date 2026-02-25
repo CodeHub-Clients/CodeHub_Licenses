@@ -14,6 +14,13 @@
         "status": "active"
      },
      {
+        "owner_name": "CodeHub Files V3 Eslam Local",
+        "ip": "2.57.19.71",
+        "resource": "Codehub_Core",
+        "resources": "All",
+        "status": "active"
+     },
+     {
         "owner_name": "محافظة الرس",
         "ip": "194.110.12.225",
         "resource": "Codehub_Core",
