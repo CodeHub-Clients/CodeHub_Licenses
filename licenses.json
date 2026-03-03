@@ -16,6 +16,13 @@
         "status": "active"
      },
      {
+        "owner_name": "العميل نمر السبيعي",
+        "ip": "45.137.98.207",
+        "resource": "Codehub_Core",
+        "resources": "ch_AdvancedDealership",
+        "status": "active"
+     },
+     {
         "owner_name": "مقاطعة النجم",
         "ip": "185.234.75.21",
         "resource": "Codehub_Core",
