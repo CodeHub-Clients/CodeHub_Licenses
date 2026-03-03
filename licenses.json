@@ -16,6 +16,13 @@
         "status": "active"
      },
      {
+        "owner_name": "مقاطعة النجم",
+        "ip": "185.234.75.21",
+        "resource": "Codehub_Core",
+        "resources": "All",
+        "status": "active"
+     },
+     {
         "owner_name": "مدينة الرين التجريبي",
         "ip": "2.57.19.71",
         "resource": "Codehub_Core",
