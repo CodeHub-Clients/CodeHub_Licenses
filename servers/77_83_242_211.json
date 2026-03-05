@@ -12,6 +12,30 @@
   ],
   "resources": [
     {
+      "product_id": 14,
+      "name": "YB_Voice",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 21,
+      "name": "YB_Staffs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 15,
+      "name": "YB_Vangelico_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 1,
       "name": "esx_shops2",
       "type": "vehicle",
@@ -116,22 +140,6 @@
       "expires_at": null
     },
     {
-      "product_id": 14,
-      "name": "YB_Voice",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 15,
-      "name": "YB_Vangelico_Robbery",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
       "product_id": 16,
       "name": "YB_RobberySystem",
       "type": "vehicle",
@@ -172,14 +180,6 @@
       "expires_at": null
     },
     {
-      "product_id": 21,
-      "name": "YB_Staffs",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
       "product_id": 22,
       "name": "YB_OwnedMechanic",
       "type": "vehicle",
@@ -188,5 +188,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-05T17:03:41.274Z"
+  "updated_at": "2026-03-05T17:08:45.254Z"
 }
