@@ -1,0 +1,32 @@
+{
+  "ip": "213.139.40.11",
+  "owner_discord_id": "548192595403210752",
+  "owner_name": "ybv10",
+  "server_name": "كود هوب",
+  "owners": [
+    {
+      "discord_id": "548192595403210752",
+      "username": "ybv10",
+      "server_name": "كود هوب"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 14,
+      "name": "YB_Voice",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 21,
+      "name": "YB_Staffs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-03-05T08:41:42.880Z"
+}
