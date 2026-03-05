@@ -1,7 +1,7 @@
 {
   "total_ips": 1,
   "total_users": 1,
-  "updated_at": "2026-03-05T08:43:42.175Z",
+  "updated_at": "2026-03-05T08:48:42.152Z",
   "servers": [
     {
       "ip": "213.139.40.11",
@@ -12,7 +12,7 @@
       "server_names": [
         "كود هوب"
       ],
-      "total_resources": 2
+      "total_resources": 3
     }
   ]
 }
