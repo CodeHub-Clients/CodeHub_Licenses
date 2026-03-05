@@ -142,9 +142,9 @@
     {
       "product_id": 16,
       "name": "YB_RobberySystem",
-      "type": "vehicle",
+      "type": "system",
       "version": "1.0.0",
-      "enforce_version": false,
+      "enforce_version": true,
       "expires_at": null
     },
     {
@@ -188,5 +188,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-05T17:23:45.252Z"
+  "updated_at": "2026-03-05T17:28:45.256Z"
 }
