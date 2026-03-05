@@ -1,0 +1,24 @@
+{
+  "ip": "213.139.40.11",
+  "owner_discord_id": "548192595403210752",
+  "owner_name": "ybv10",
+  "server_name": "كود هوب",
+  "owners": [
+    {
+      "discord_id": "548192595403210752",
+      "username": "ybv10",
+      "server_name": "كود هوب"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 6,
+      "name": "غسالات اوتوماتيكي",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-03-05T06:55:20.491Z"
+}
