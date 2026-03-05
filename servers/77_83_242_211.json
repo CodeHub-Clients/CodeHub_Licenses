@@ -37,7 +37,7 @@
     },
     {
       "product_id": 4,
-      "name": "YB_AutoRestart",
+      "name": "سكربت الإعصار",
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
@@ -188,5 +188,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-05T13:08:41.253Z"
+  "updated_at": "2026-03-05T13:13:41.249Z"
 }
