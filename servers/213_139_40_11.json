@@ -108,6 +108,14 @@
       "expires_at": null
     },
     {
+      "product_id": 13,
+      "name": "YB_Redbull",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 14,
       "name": "YB_Voice",
       "type": "vehicle",
@@ -132,5 +140,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-05T10:26:55.540Z"
+  "updated_at": "2026-03-05T10:26:56.242Z"
 }
