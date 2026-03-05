@@ -140,6 +140,14 @@
       "expires_at": null
     },
     {
+      "product_id": 17,
+      "name": "YB_Pacificheist_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 21,
       "name": "YB_Staffs",
       "type": "vehicle",
@@ -148,5 +156,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-05T10:26:58.477Z"
+  "updated_at": "2026-03-05T10:26:59.261Z"
 }
