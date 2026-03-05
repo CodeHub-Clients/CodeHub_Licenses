@@ -178,7 +178,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-03-05T10:27:02.525Z"
+  "updated_at": "2026-03-05T10:27:03.315Z"
 }
