@@ -72,7 +72,7 @@
       "name": "YB_Handcuff",
       "type": "vehicle",
       "version": "1.0",
-      "enforce_version": true,
+      "enforce_version": false,
       "expires_at": null
     },
     {
@@ -188,5 +188,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-08T02:15:12.840Z"
+  "updated_at": "2026-03-08T02:20:12.673Z"
 }
