@@ -1,7 +1,7 @@
 {
-  "total_ips": 3,
-  "total_users": 3,
-  "updated_at": "2026-03-08T02:37:25.626Z",
+  "total_ips": 4,
+  "total_users": 4,
+  "updated_at": "2026-03-08T02:45:33.353Z",
   "servers": [
     {
       "ip": "77.83.242.211",
@@ -33,6 +33,17 @@
       ],
       "server_names": [
         "مدينه الكاهون"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "196.228.152.124",
+      "users_count": 1,
+      "owners": [
+        "islam4"
+      ],
+      "server_names": [
+        "ابراهيم ارحمني"
       ],
       "total_resources": 22
     }
