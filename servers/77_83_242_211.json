@@ -181,12 +181,12 @@
     },
     {
       "product_id": 22,
-      "name": "YB_OwnedMechanic",
+      "name": "YB_OwnedMechanic | تملك الورش",
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-09T03:18:57.391Z"
+  "updated_at": "2026-03-09T03:23:57.390Z"
 }
