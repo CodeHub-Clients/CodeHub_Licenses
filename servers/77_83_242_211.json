@@ -1,14 +1,9 @@
 {
   "ip": "77.83.242.211",
-  "owner_discord_id": "548192595403210752",
-  "owner_name": "ybv10",
-  "server_name": "كود هوب",
+  "owner_discord_id": "1019511830172934194",
+  "owner_name": "ny9f",
+  "server_name": "محافظة الشرق",
   "owners": [
-    {
-      "discord_id": "548192595403210752",
-      "username": "ybv10",
-      "server_name": "كود هوب"
-    },
     {
       "discord_id": "1019511830172934194",
       "username": "ny9f",
@@ -16,30 +11,6 @@
     }
   ],
   "resources": [
-    {
-      "product_id": 14,
-      "name": "YB_Voice",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": true,
-      "expires_at": null
-    },
-    {
-      "product_id": 21,
-      "name": "YB_Staffs",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 15,
-      "name": "YB_Vangelico_Robbery",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
     {
       "product_id": 1,
       "name": "esx_shops2",
@@ -145,6 +116,22 @@
       "expires_at": null
     },
     {
+      "product_id": 14,
+      "name": "YB_Voice",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 15,
+      "name": "YB_Vangelico_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 16,
       "name": "YB_RobberySystem",
       "type": "system",
@@ -185,6 +172,14 @@
       "expires_at": null
     },
     {
+      "product_id": 21,
+      "name": "YB_Staffs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 22,
       "name": "YB_OwnedMechanic | تملك الورش",
       "type": "vehicle",
@@ -193,5 +188,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-09T03:24:34.958Z"
+  "updated_at": "2026-03-09T03:26:43.191Z"
 }
