@@ -1,7 +1,7 @@
 {
-  "total_ips": 4,
-  "total_users": 4,
-  "updated_at": "2026-03-09T15:34:00.947Z",
+  "total_ips": 5,
+  "total_users": 5,
+  "updated_at": "2026-03-09T15:39:01.929Z",
   "servers": [
     {
       "ip": "45.88.9.35",
@@ -44,6 +44,17 @@
       ],
       "server_names": [
         "محافظة الشرق"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "212.107.14.21",
+      "users_count": 1,
+      "owners": [
+        "vd7me"
+      ],
+      "server_names": [
+        "محافظة الرس"
       ],
       "total_resources": 22
     }
