@@ -1,7 +1,7 @@
 {
-  "total_ips": 5,
-  "total_users": 5,
-  "updated_at": "2026-03-09T16:44:01.797Z",
+  "total_ips": 6,
+  "total_users": 6,
+  "updated_at": "2026-03-09T16:49:02.469Z",
   "servers": [
     {
       "ip": "45.88.9.35",
@@ -57,6 +57,17 @@
         "محافظة الرس"
       ],
       "total_resources": 22
+    },
+    {
+      "ip": "91.212.121.99",
+      "users_count": 1,
+      "owners": [
+        "51.f"
+      ],
+      "server_names": [
+        "51"
+      ],
+      "total_resources": 1
     }
   ]
 }
