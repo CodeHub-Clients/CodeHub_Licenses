@@ -30,7 +30,7 @@
     {
       "product_id": 3,
       "name": "YB_adrenaline",
-      "type": "vehicle",
+      "type": "other",
       "version": "1.0.0",
       "enforce_version": true,
       "expires_at": null
@@ -188,5 +188,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-13T01:49:51.047Z"
+  "updated_at": "2026-03-13T01:58:54.001Z"
 }
