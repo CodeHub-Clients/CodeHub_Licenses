@@ -1,7 +1,7 @@
 {
-  "total_ips": 8,
-  "total_users": 8,
-  "updated_at": "2026-03-13T23:52:18.042Z",
+  "total_ips": 9,
+  "total_users": 9,
+  "updated_at": "2026-03-13T23:57:19.704Z",
   "servers": [
     {
       "ip": "45.88.9.35",
@@ -90,6 +90,17 @@
         "P966"
       ],
       "total_resources": 3
+    },
+    {
+      "ip": "2.56.165.206",
+      "users_count": 1,
+      "owners": [
+        "0xdenx"
+      ],
+      "server_names": [
+        "مقاطعة ايليت"
+      ],
+      "total_resources": 22
     }
   ]
 }
