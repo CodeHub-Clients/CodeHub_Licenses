@@ -32,7 +32,7 @@
       "name": "YB_adrenaline",
       "type": "vehicle",
       "version": "1.0.0",
-      "enforce_version": false,
+      "enforce_version": true,
       "expires_at": null
     },
     {
@@ -188,5 +188,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-13T01:35:50.672Z"
+  "updated_at": "2026-03-13T01:44:49.841Z"
 }
