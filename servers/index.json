@@ -1,7 +1,7 @@
 {
-  "total_ips": 10,
-  "total_users": 10,
-  "updated_at": "2026-03-15T00:12:19.214Z",
+  "total_ips": 11,
+  "total_users": 11,
+  "updated_at": "2026-03-15T00:17:19.684Z",
   "servers": [
     {
       "ip": "45.88.9.35",
@@ -112,6 +112,17 @@
         "مقاطعة ايليت"
       ],
       "total_resources": 22
+    },
+    {
+      "ip": "194.45.197.30",
+      "users_count": 1,
+      "owners": [
+        ".507i"
+      ],
+      "server_names": [
+        "مقاطعة ثرونز "
+      ],
+      "total_resources": 1
     }
   ]
 }
