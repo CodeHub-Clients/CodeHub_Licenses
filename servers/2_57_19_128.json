@@ -1,0 +1,24 @@
+{
+  "ip": "2.57.19.128",
+  "owner_discord_id": "1032740879326261429",
+  "owner_name": "saud10114",
+  "server_name": "DKHN",
+  "owners": [
+    {
+      "discord_id": "1032740879326261429",
+      "username": "saud10114",
+      "server_name": "DKHN"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 16,
+      "name": "YB_RobberySystem",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-03-18T23:29:55.184Z"
+}
