@@ -1,7 +1,7 @@
 {
-  "total_ips": 11,
-  "total_users": 11,
-  "updated_at": "2026-03-18T23:28:47.048Z",
+  "total_ips": 12,
+  "total_users": 12,
+  "updated_at": "2026-03-18T23:33:47.758Z",
   "servers": [
     {
       "ip": "213.139.63.64",
@@ -121,6 +121,17 @@
       ],
       "server_names": [
         "مقاطعة ثرونز "
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "2.57.19.128",
+      "users_count": 1,
+      "owners": [
+        "saud10114"
+      ],
+      "server_names": [
+        "DKHN"
       ],
       "total_resources": 1
     }
