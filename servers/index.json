@@ -1,7 +1,7 @@
 {
   "total_ips": 12,
   "total_users": 12,
-  "updated_at": "2026-03-19T02:23:47.841Z",
+  "updated_at": "2026-03-19T02:28:47.805Z",
   "servers": [
     {
       "ip": "213.139.63.64",
@@ -45,7 +45,7 @@
       "server_names": [
         "ابراهيم ارحمني"
       ],
-      "total_resources": 22
+      "total_resources": 21
     },
     {
       "ip": "77.83.242.211",
