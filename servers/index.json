@@ -1,7 +1,7 @@
 {
-  "total_ips": 12,
-  "total_users": 12,
-  "updated_at": "2026-03-19T18:48:48.935Z",
+  "total_ips": 13,
+  "total_users": 13,
+  "updated_at": "2026-03-19T18:53:49.233Z",
   "servers": [
     {
       "ip": "45.88.9.35",
@@ -112,6 +112,17 @@
         "مقاطعة ايليت"
       ],
       "total_resources": 22
+    },
+    {
+      "ip": "8.8.8.8",
+      "users_count": 1,
+      "owners": [
+        "eav10"
+      ],
+      "server_names": [
+        "CodehubTest"
+      ],
+      "total_resources": 2
     },
     {
       "ip": "194.45.197.30",
