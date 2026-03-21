@@ -166,7 +166,7 @@
     {
       "product_id": 20,
       "name": "YB_Artheist_Robbery",
-      "type": "vehicle",
+      "type": "map",
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
@@ -174,7 +174,7 @@
     {
       "product_id": 21,
       "name": "YB_Staffs",
-      "type": "vehicle",
+      "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
@@ -182,11 +182,11 @@
     {
       "product_id": 22,
       "name": "YB_OwnedMechanic | تملك الورش",
-      "type": "vehicle",
+      "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-21T16:06:08.758Z"
+  "updated_at": "2026-03-21T16:11:08.644Z"
 }
