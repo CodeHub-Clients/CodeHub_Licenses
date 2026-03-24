@@ -1,0 +1,48 @@
+{
+  "ip": "82.22.62.53",
+  "owner_discord_id": "1365093500378681476",
+  "owner_name": "0f5e",
+  "server_name": "",
+  "owners": [
+    {
+      "discord_id": "1365093500378681476",
+      "username": "0f5e",
+      "server_name": ""
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 4,
+      "name": "سكربت الإعصار",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 11,
+      "name": "YB_Jobs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 12,
+      "name": "YB_Property",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic | تملك الورش",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-03-24T15:46:01.686Z"
+}
