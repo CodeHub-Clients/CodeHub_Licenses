@@ -2,12 +2,12 @@
   "ip": "82.22.62.53",
   "owner_discord_id": "1365093500378681476",
   "owner_name": "0f5e",
-  "server_name": "",
+  "server_name": "مقاطعة سولار",
   "owners": [
     {
       "discord_id": "1365093500378681476",
       "username": "0f5e",
-      "server_name": ""
+      "server_name": "مقاطعة سولار"
     }
   ],
   "resources": [
@@ -44,5 +44,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-03-24T15:46:01.686Z"
+  "updated_at": "2026-03-24T15:46:10.563Z"
 }
