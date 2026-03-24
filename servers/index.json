@@ -1,7 +1,7 @@
 {
   "total_ips": 14,
   "total_users": 14,
-  "updated_at": "2026-03-24T15:46:20.882Z",
+  "updated_at": "2026-03-24T15:51:20.117Z",
   "servers": [
     {
       "ip": "213.139.63.79",
@@ -152,7 +152,9 @@
       "owners": [
         "0f5e"
       ],
-      "server_names": [],
+      "server_names": [
+        "مقاطعة سولار"
+      ],
       "total_resources": 4
     }
   ]
