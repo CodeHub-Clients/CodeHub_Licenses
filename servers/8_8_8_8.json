@@ -26,7 +26,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 24,
+      "name": "ch_AdvancedDealership ",
+      "type": "system",
+      "version": "2.0.5",
+      "enforce_version": true,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-03-25T21:36:15.610Z"
+  "updated_at": "2026-03-25T21:37:53.557Z"
 }
