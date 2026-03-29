@@ -1,7 +1,7 @@
 {
-  "total_ips": 15,
-  "total_users": 15,
-  "updated_at": "2026-03-29T20:21:18.727Z",
+  "total_ips": 16,
+  "total_users": 16,
+  "updated_at": "2026-03-29T20:26:19.671Z",
   "servers": [
     {
       "ip": "213.139.63.79",
@@ -167,6 +167,17 @@
         "مدينة الواحة"
       ],
       "total_resources": 22
+    },
+    {
+      "ip": "45.137.98.83",
+      "users_count": 1,
+      "owners": [
+        "1nw_"
+      ],
+      "server_names": [
+        "مقاطعة المجد"
+      ],
+      "total_resources": 0
     }
   ]
 }
