@@ -18,7 +18,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 2,
+      "name": "esx_trunk",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-04-06T17:13:49.943Z"
+  "updated_at": "2026-04-06T17:13:50.746Z"
 }
