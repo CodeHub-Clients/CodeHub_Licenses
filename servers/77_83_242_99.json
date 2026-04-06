@@ -10,6 +10,15 @@
       "server_name": "مقاطعة موسكو"
     }
   ],
-  "resources": [],
-  "updated_at": "2026-04-06T17:11:21.966Z"
+  "resources": [
+    {
+      "product_id": 1,
+      "name": "esx_shops2",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-04-06T17:13:49.943Z"
 }
