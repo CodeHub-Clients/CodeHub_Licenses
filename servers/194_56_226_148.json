@@ -2,12 +2,12 @@
   "ip": "194.56.226.148",
   "owner_discord_id": "1397176097770049577",
   "owner_name": "9m8w",
-  "server_name": "مقاطعة سدني",
+  "server_name": "^4مقاطعة سدني",
   "owners": [
     {
       "discord_id": "1397176097770049577",
       "username": "9m8w",
-      "server_name": "مقاطعة سدني"
+      "server_name": "^4مقاطعة سدني"
     }
   ],
   "resources": [
@@ -188,5 +188,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-04-07T23:16:14.781Z"
+  "updated_at": "2026-04-07T23:19:03.332Z"
 }
