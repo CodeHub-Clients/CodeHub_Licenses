@@ -1,7 +1,7 @@
 {
-  "total_ips": 17,
-  "total_users": 17,
-  "updated_at": "2026-04-08T01:26:21.693Z",
+  "total_ips": 18,
+  "total_users": 18,
+  "updated_at": "2026-04-08T01:31:22.457Z",
   "servers": [
     {
       "ip": "213.139.63.79",
@@ -189,6 +189,17 @@
         "مقاطعة موسكو"
       ],
       "total_resources": 22
+    },
+    {
+      "ip": "77.83.242.253",
+      "users_count": 1,
+      "owners": [
+        ".3bid"
+      ],
+      "server_names": [
+        "PD1"
+      ],
+      "total_resources": 12
     }
   ]
 }
