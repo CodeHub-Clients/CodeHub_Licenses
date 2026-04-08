@@ -1,7 +1,7 @@
 {
   "total_ips": 17,
   "total_users": 17,
-  "updated_at": "2026-04-08T00:06:22.001Z",
+  "updated_at": "2026-04-08T00:11:22.193Z",
   "servers": [
     {
       "ip": "213.139.63.79",
@@ -87,7 +87,7 @@
         "9m8w"
       ],
       "server_names": [
-        "^4مقاطعة سدني"
+        "مقاطعة سدني"
       ],
       "total_resources": 22
     },
