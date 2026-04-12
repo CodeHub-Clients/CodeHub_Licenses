@@ -1,0 +1,40 @@
+{
+  "ip": "2.57.19.192",
+  "owner_discord_id": "840575517399842886",
+  "owner_name": "_e5x",
+  "server_name": "SQ9",
+  "owners": [
+    {
+      "discord_id": "840575517399842886",
+      "username": "_e5x",
+      "server_name": "SQ9"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 3,
+      "name": "YB_adrenaline",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 4,
+      "name": "سكربت الإعصار",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic | تملك الورش",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-04-12T21:12:11.907Z"
+}
