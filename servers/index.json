@@ -1,7 +1,7 @@
 {
-  "total_ips": 19,
-  "total_users": 19,
-  "updated_at": "2026-04-13T21:53:21.179Z",
+  "total_ips": 20,
+  "total_users": 20,
+  "updated_at": "2026-04-13T21:58:22.375Z",
   "servers": [
     {
       "ip": "213.139.63.79",
@@ -209,6 +209,17 @@
       ],
       "server_names": [
         "مقاطعة ريج"
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "2.57.19.141",
+      "users_count": 1,
+      "owners": [
+        "s3.mh"
+      ],
+      "server_names": [
+        "مقاطعة سبارك"
       ],
       "total_resources": 1
     }
