@@ -1,0 +1,24 @@
+{
+  "ip": "194.45.197.138",
+  "owner_discord_id": "776296703275171850",
+  "owner_name": "y.m_",
+  "server_name": "مقاطعة ريج",
+  "owners": [
+    {
+      "discord_id": "776296703275171850",
+      "username": "y.m_",
+      "server_name": "مقاطعة ريج"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-04-13T09:14:03.634Z"
+}
