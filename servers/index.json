@@ -1,7 +1,7 @@
 {
-  "total_ips": 18,
-  "total_users": 18,
-  "updated_at": "2026-04-13T09:13:20.722Z",
+  "total_ips": 19,
+  "total_users": 19,
+  "updated_at": "2026-04-13T09:18:25.917Z",
   "servers": [
     {
       "ip": "213.139.63.79",
@@ -200,6 +200,17 @@
         "PD1"
       ],
       "total_resources": 12
+    },
+    {
+      "ip": "194.45.197.138",
+      "users_count": 1,
+      "owners": [
+        "y.m_"
+      ],
+      "server_names": [
+        "مقاطعة ريج"
+      ],
+      "total_resources": 1
     }
   ]
 }
