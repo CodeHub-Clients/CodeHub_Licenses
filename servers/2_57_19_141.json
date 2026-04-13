@@ -1,0 +1,24 @@
+{
+  "ip": "2.57.19.141",
+  "owner_discord_id": "1085657607861174313",
+  "owner_name": "s3.mh",
+  "server_name": "مقاطعة سبارك",
+  "owners": [
+    {
+      "discord_id": "1085657607861174313",
+      "username": "s3.mh",
+      "server_name": "مقاطعة سبارك"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 12,
+      "name": "YB_Property",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-04-13T21:57:51.067Z"
+}
