@@ -1,0 +1,24 @@
+{
+  "ip": "185.234.75.21",
+  "owner_discord_id": "972679453639598111",
+  "owner_name": "00__",
+  "server_name": "مقاطعة نجم",
+  "owners": [
+    {
+      "discord_id": "972679453639598111",
+      "username": "00__",
+      "server_name": "مقاطعة نجم"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 10,
+      "name": "YB_JailSystem",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-04-14T18:48:27.683Z"
+}
