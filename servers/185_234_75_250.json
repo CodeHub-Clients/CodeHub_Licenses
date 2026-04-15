@@ -1,0 +1,24 @@
+{
+  "ip": "185.234.75.250",
+  "owner_discord_id": "1091546008267276408",
+  "owner_name": "iturki",
+  "server_name": "الرين",
+  "owners": [
+    {
+      "discord_id": "1091546008267276408",
+      "username": "iturki",
+      "server_name": "الرين"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 10,
+      "name": "YB_JailSystem",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-04-15T11:40:35.890Z"
+}
