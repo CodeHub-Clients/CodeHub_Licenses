@@ -1,7 +1,7 @@
 {
-  "total_ips": 21,
-  "total_users": 21,
-  "updated_at": "2026-04-15T11:38:23.609Z",
+  "total_ips": 22,
+  "total_users": 22,
+  "updated_at": "2026-04-15T11:43:24.397Z",
   "servers": [
     {
       "ip": "213.139.49.248",
@@ -57,6 +57,17 @@
         "محافظة الشرق"
       ],
       "total_resources": 22
+    },
+    {
+      "ip": "185.234.75.250",
+      "users_count": 1,
+      "owners": [
+        "iturki"
+      ],
+      "server_names": [
+        "الرين"
+      ],
+      "total_resources": 1
     },
     {
       "ip": "212.107.14.21",
