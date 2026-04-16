@@ -1,0 +1,32 @@
+{
+  "ip": "217.164.126.8",
+  "owner_discord_id": "1414603499903389787",
+  "owner_name": "itskok0",
+  "server_name": "مود الشرطة ED9",
+  "owners": [
+    {
+      "discord_id": "1414603499903389787",
+      "username": "itskok0",
+      "server_name": "مود الشرطة ED9"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 10,
+      "name": "YB_JailSystem",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 21,
+      "name": "YB_Staffs",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-04-16T12:01:51.543Z"
+}
