@@ -186,7 +186,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 27,
+      "name": "YB_Plates",
+      "type": "ui",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-04-16T20:20:15.986Z"
+  "updated_at": "2026-04-16T20:22:40.593Z"
 }
