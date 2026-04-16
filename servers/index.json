@@ -1,7 +1,7 @@
 {
-  "total_ips": 23,
-  "total_users": 23,
-  "updated_at": "2026-04-16T11:58:25.428Z",
+  "total_ips": 24,
+  "total_users": 24,
+  "updated_at": "2026-04-16T12:03:26.687Z",
   "servers": [
     {
       "ip": "213.139.49.248",
@@ -255,6 +255,17 @@
         "مدينة السراب"
       ],
       "total_resources": 22
+    },
+    {
+      "ip": "217.164.126.8",
+      "users_count": 1,
+      "owners": [
+        "itskok0"
+      ],
+      "server_names": [
+        "مود الشرطة ED9"
+      ],
+      "total_resources": 2
     }
   ]
 }
