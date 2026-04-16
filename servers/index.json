@@ -1,7 +1,7 @@
 {
   "total_ips": 24,
   "total_users": 24,
-  "updated_at": "2026-04-16T12:48:28.240Z",
+  "updated_at": "2026-04-16T12:53:27.949Z",
   "servers": [
     {
       "ip": "213.139.49.248",
@@ -243,7 +243,7 @@
       "server_names": [
         "مقاطعة نجم"
       ],
-      "total_resources": 1
+      "total_resources": 2
     },
     {
       "ip": "2.57.19.167",
