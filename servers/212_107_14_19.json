@@ -154,7 +154,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 16,
+      "name": "YB_RobberySystem",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-04-17T19:41:41.567Z"
+  "updated_at": "2026-04-17T19:41:42.411Z"
 }
