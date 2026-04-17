@@ -98,7 +98,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 7,
+      "name": "YB_Drugs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-04-17T19:41:32.281Z"
+  "updated_at": "2026-04-17T19:41:33.225Z"
 }
