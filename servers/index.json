@@ -1,7 +1,7 @@
 {
   "total_ips": 24,
   "total_users": 24,
-  "updated_at": "2026-04-18T06:50:32.587Z",
+  "updated_at": "2026-04-18T06:55:31.677Z",
   "servers": [
     {
       "ip": "213.139.49.248",
@@ -169,7 +169,7 @@
       "total_resources": 4
     },
     {
-      "ip": "45.88.9.38",
+      "ip": "82.22.62.60",
       "users_count": 1,
       "owners": [
         "6lk6"
