@@ -1,6 +1,283 @@
 {
-  "total_ips": 0,
-  "total_users": 0,
-  "updated_at": "2026-04-19T22:37:39.086Z",
-  "servers": []
+  "total_ips": 25,
+  "total_users": 26,
+  "updated_at": "2026-04-19T22:40:33.223Z",
+  "servers": [
+    {
+      "ip": "213.139.49.248",
+      "users_count": 1,
+      "owners": [
+        "ybv10"
+      ],
+      "server_names": [
+        "كود هوب"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "82.26.74.111",
+      "users_count": 1,
+      "owners": [
+        "7447444"
+      ],
+      "server_names": [
+        "مدينة القمة"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "45.144.225.58",
+      "users_count": 1,
+      "owners": [
+        "roy92"
+      ],
+      "server_names": [
+        "مدينه الكاهون"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "196.228.152.124",
+      "users_count": 1,
+      "owners": [
+        "islam4"
+      ],
+      "server_names": [
+        "ابراهيم ارحمني"
+      ],
+      "total_resources": 21
+    },
+    {
+      "ip": "77.83.242.211",
+      "users_count": 1,
+      "owners": [
+        "ny9f"
+      ],
+      "server_names": [
+        "محافظة الشرق"
+      ],
+      "total_resources": 23
+    },
+    {
+      "ip": "185.234.75.250",
+      "users_count": 1,
+      "owners": [
+        "iturki"
+      ],
+      "server_names": [
+        "الرين"
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "212.107.14.21",
+      "users_count": 1,
+      "owners": [
+        "vd7me"
+      ],
+      "server_names": [
+        "محافظة الرس"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "91.212.121.126",
+      "users_count": 1,
+      "owners": [
+        "51.f"
+      ],
+      "server_names": [
+        "51"
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "194.56.226.148",
+      "users_count": 1,
+      "owners": [
+        "9m8w"
+      ],
+      "server_names": [
+        "مقاطعة سدني"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "212.107.14.196",
+      "users_count": 1,
+      "owners": [
+        "_e5x"
+      ],
+      "server_names": [
+        "SQ9"
+      ],
+      "total_resources": 3
+    },
+    {
+      "ip": "2.56.165.206",
+      "users_count": 1,
+      "owners": [
+        "0xdenx"
+      ],
+      "server_names": [
+        "مقاطعة ايليت"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "212.107.14.19",
+      "users_count": 1,
+      "owners": [
+        "eav10"
+      ],
+      "server_names": [
+        "CodehubTest"
+      ],
+      "total_resources": 23
+    },
+    {
+      "ip": "194.45.197.30",
+      "users_count": 1,
+      "owners": [
+        ".507i"
+      ],
+      "server_names": [
+        "مقاطعة ثرونز "
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "2.57.19.128",
+      "users_count": 1,
+      "owners": [
+        "saud10114"
+      ],
+      "server_names": [
+        "DKHN"
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "82.22.62.53",
+      "users_count": 1,
+      "owners": [
+        "0f5e"
+      ],
+      "server_names": [
+        "مقاطعة سولار"
+      ],
+      "total_resources": 4
+    },
+    {
+      "ip": "45.88.9.38",
+      "users_count": 1,
+      "owners": [
+        "6lk6"
+      ],
+      "server_names": [
+        "مدينة الواحة"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "45.137.98.83",
+      "users_count": 1,
+      "owners": [
+        "1nw_"
+      ],
+      "server_names": [
+        "مقاطعة المجد"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "77.83.242.99",
+      "users_count": 1,
+      "owners": [
+        "u.5z"
+      ],
+      "server_names": [
+        "مقاطعة موسكو"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "77.83.242.253",
+      "users_count": 1,
+      "owners": [
+        ".3bid"
+      ],
+      "server_names": [
+        "PD1"
+      ],
+      "total_resources": 12
+    },
+    {
+      "ip": "194.45.197.138",
+      "users_count": 1,
+      "owners": [
+        "y.m_"
+      ],
+      "server_names": [
+        "مقاطعة ريج"
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "185.234.75.137",
+      "users_count": 1,
+      "owners": [
+        "s3.mh"
+      ],
+      "server_names": [
+        "مقاطعة سبارك"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "185.234.75.21",
+      "users_count": 1,
+      "owners": [
+        "00__"
+      ],
+      "server_names": [
+        "مقاطعة نجم"
+      ],
+      "total_resources": 2
+    },
+    {
+      "ip": "2.57.19.167",
+      "users_count": 1,
+      "owners": [
+        "7.0e"
+      ],
+      "server_names": [
+        "مدينة السراب"
+      ],
+      "total_resources": 22
+    },
+    {
+      "ip": "194.56.226.62",
+      "users_count": 1,
+      "owners": [
+        "itskok0"
+      ],
+      "server_names": [
+        "مود الشرطة ED9"
+      ],
+      "total_resources": 2
+    },
+    {
+      "ip": "185.234.75.248",
+      "users_count": 2,
+      "owners": [
+        "md_507",
+        "mkjhfd9081"
+      ],
+      "server_names": [
+        "مدينة الظل "
+      ],
+      "total_resources": 1
+    }
+  ]
 }
