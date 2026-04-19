@@ -74,7 +74,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 6,
+      "name": "YB_DiscordName",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-04-19T18:26:19.817Z"
+  "updated_at": "2026-04-19T18:26:20.737Z"
 }
