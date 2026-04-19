@@ -98,7 +98,15 @@
       "version": "1.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 9,
+      "name": "YB_Helmet",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-04-19T18:26:22.402Z"
+  "updated_at": "2026-04-19T18:26:23.230Z"
 }
