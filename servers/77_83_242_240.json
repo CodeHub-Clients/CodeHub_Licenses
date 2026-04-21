@@ -1,0 +1,112 @@
+{
+  "ip": "77.83.242.240",
+  "owner_discord_id": "992511664652034090",
+  "owner_name": ".3bid",
+  "server_name": "PD1",
+  "owners": [
+    {
+      "discord_id": "992511664652034090",
+      "username": ".3bid",
+      "server_name": "PD1"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 4,
+      "name": "سكربت الإعصار",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 10,
+      "name": "YB_JailSystem",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 12,
+      "name": "YB_Property",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 14,
+      "name": "YB_Voice",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 15,
+      "name": "YB_Vangelico_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 16,
+      "name": "YB_RobberySystem",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 17,
+      "name": "YB_Pacificheist_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 18,
+      "name": "YB_BlackMarket",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 19,
+      "name": "YB_ATM_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 20,
+      "name": "YB_Artheist_Robbery",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 21,
+      "name": "YB_Staffs",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic | تملك الورش",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-04-21T16:43:13.007Z"
+}
