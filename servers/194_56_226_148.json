@@ -8,6 +8,11 @@
       "discord_id": "1397176097770049577",
       "username": "9m8w",
       "server_name": "مقاطعة سدني"
+    },
+    {
+      "discord_id": "1105277520837885963",
+      "username": "r__uu",
+      "server_name": "سدني"
     }
   ],
   "resources": [
@@ -194,7 +199,31 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 23,
+      "name": "yb_arena",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 24,
+      "name": "ch_AdvancedDealership ",
+      "type": "system",
+      "version": "2.0.5",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-04-22T15:45:20.505Z"
+  "updated_at": "2026-04-22T15:48:30.211Z"
 }
