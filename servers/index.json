@@ -1,7 +1,7 @@
 {
-  "total_ips": 25,
-  "total_users": 27,
-  "updated_at": "2026-04-22T20:25:36.850Z",
+  "total_ips": 26,
+  "total_users": 28,
+  "updated_at": "2026-04-22T20:30:37.229Z",
   "servers": [
     {
       "ip": "213.139.49.248",
@@ -278,6 +278,17 @@
       ],
       "server_names": [
         "مدينة الظل "
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "31.56.120.105",
+      "users_count": 1,
+      "owners": [
+        "lx9k"
+      ],
+      "server_names": [
+        "مدينة العهد"
       ],
       "total_resources": 1
     }
