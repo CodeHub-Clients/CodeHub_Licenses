@@ -1,0 +1,24 @@
+{
+  "ip": "31.56.120.105",
+  "owner_discord_id": "1304092715075633224",
+  "owner_name": "lx9k",
+  "server_name": "مدينة العهد",
+  "owners": [
+    {
+      "discord_id": "1304092715075633224",
+      "username": "lx9k",
+      "server_name": "مدينة العهد"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 28,
+      "name": "YB_DealyReward",
+      "type": "ui",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-04-22T20:28:10.036Z"
+}
