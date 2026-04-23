@@ -10,6 +10,15 @@
       "server_name": "مقاطعة نيكسوس"
     }
   ],
-  "resources": [],
-  "updated_at": "2026-04-23T17:27:10.442Z"
+  "resources": [
+    {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-04-23T17:27:25.279Z"
 }
