@@ -1,7 +1,7 @@
 {
-  "total_ips": 26,
-  "total_users": 28,
-  "updated_at": "2026-04-23T17:25:37.995Z",
+  "total_ips": 27,
+  "total_users": 29,
+  "updated_at": "2026-04-23T17:30:47.289Z",
   "servers": [
     {
       "ip": "213.139.49.248",
@@ -246,6 +246,17 @@
         "مقاطعة نجم"
       ],
       "total_resources": 2
+    },
+    {
+      "ip": "212.115.101.36",
+      "users_count": 1,
+      "owners": [
+        "alqima1"
+      ],
+      "server_names": [
+        "مقاطعة نيكسوس"
+      ],
+      "total_resources": 1
     },
     {
       "ip": "2.57.19.167",
