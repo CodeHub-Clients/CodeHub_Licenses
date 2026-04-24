@@ -1,7 +1,7 @@
 {
   "total_ips": 27,
   "total_users": 29,
-  "updated_at": "2026-04-24T07:20:39.097Z",
+  "updated_at": "2026-04-24T07:25:38.550Z",
   "servers": [
     {
       "ip": "212.34.14.111",
@@ -256,7 +256,7 @@
       "server_names": [
         "مقاطعة نيكسوس"
       ],
-      "total_resources": 23
+      "total_resources": 25
     },
     {
       "ip": "2.57.19.167",
