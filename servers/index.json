@@ -1,7 +1,7 @@
 {
   "total_ips": 27,
   "total_users": 29,
-  "updated_at": "2026-04-24T14:05:41.053Z",
+  "updated_at": "2026-04-24T14:10:41.940Z",
   "servers": [
     {
       "ip": "212.34.14.111",
@@ -293,7 +293,7 @@
       "total_resources": 1
     },
     {
-      "ip": "31.56.120.105",
+      "ip": "31.56.120.77",
       "users_count": 1,
       "owners": [
         "lx9k"
