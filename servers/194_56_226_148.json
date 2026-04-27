@@ -201,6 +201,14 @@
       "expires_at": null
     },
     {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 23,
       "name": "yb_arena",
       "type": "system",
@@ -215,15 +223,7 @@
       "version": "2.0.5",
       "enforce_version": true,
       "expires_at": null
-    },
-    {
-      "product_id": 26,
-      "name": "YB_GangSystem",
-      "type": "system",
-      "version": "3.0.1",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-04-27T19:45:21.857Z"
+  "updated_at": "2026-04-27T19:47:20.713Z"
 }
