@@ -1,7 +1,7 @@
 {
   "total_ips": 29,
   "total_users": 31,
-  "updated_at": "2026-04-28T16:40:43.532Z",
+  "updated_at": "2026-04-28T16:45:42.608Z",
   "servers": [
     {
       "ip": "212.34.14.111",
@@ -56,7 +56,7 @@
       "server_names": [
         "محافظة الشرق"
       ],
-      "total_resources": 23
+      "total_resources": 24
     },
     {
       "ip": "185.234.75.250",
