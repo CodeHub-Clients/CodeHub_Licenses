@@ -1,0 +1,20 @@
+{
+  "id": 28,
+  "name": "YB_DealyReward",
+  "slug": "yb-dealyreward",
+  "type": "ui",
+  "price": "20.00",
+  "discount_type": "none",
+  "discount_value": null,
+  "final_assets": {
+    "images": [],
+    "video_url": null,
+    "download_links": [
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/yb-dealyreward/downloads/1777411479163-vcjx21-avatar.zip"
+    ]
+  },
+  "stock": -1,
+  "is_active": true,
+  "version": "1.0.0",
+  "updated_at": "2026-04-28T21:24:42.594Z"
+}
