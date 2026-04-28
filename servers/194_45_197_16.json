@@ -1,0 +1,24 @@
+{
+  "ip": "194.45.197.16",
+  "owner_discord_id": "1231277346754138196",
+  "owner_name": "is3a95",
+  "server_name": "مقاطعة تكساس",
+  "owners": [
+    {
+      "discord_id": "1231277346754138196",
+      "username": "is3a95",
+      "server_name": "مقاطعة تكساس"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 4,
+      "name": "سكربت الإعصار",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-04-28T06:23:27.175Z"
+}
