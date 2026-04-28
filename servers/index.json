@@ -1,8 +1,19 @@
 {
-  "total_ips": 29,
-  "total_users": 31,
-  "updated_at": "2026-04-28T21:15:55.131Z",
+  "total_ips": 30,
+  "total_users": 32,
+  "updated_at": "2026-04-28T21:25:28.172Z",
   "servers": [
+    {
+      "ip": "0.0.0.0",
+      "users_count": 1,
+      "owners": [
+        "777m"
+      ],
+      "server_names": [
+        "مقاطعة المدينة"
+      ],
+      "total_resources": 23
+    },
     {
       "ip": "212.34.14.111",
       "users_count": 1,
