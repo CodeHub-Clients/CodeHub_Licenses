@@ -1,7 +1,7 @@
 {
-  "total_ips": 28,
-  "total_users": 30,
-  "updated_at": "2026-04-28T06:20:42.098Z",
+  "total_ips": 29,
+  "total_users": 31,
+  "updated_at": "2026-04-28T06:25:42.202Z",
   "servers": [
     {
       "ip": "212.34.14.111",
@@ -311,6 +311,17 @@
       ],
       "server_names": [
         "مدينة العهد"
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "194.45.197.16",
+      "users_count": 1,
+      "owners": [
+        "is3a95"
+      ],
+      "server_names": [
+        "مقاطعة تكساس"
       ],
       "total_resources": 1
     }
