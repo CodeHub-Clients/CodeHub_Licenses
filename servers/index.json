@@ -1,7 +1,7 @@
 {
   "total_ips": 30,
-  "total_users": 32,
-  "updated_at": "2026-04-29T01:15:15.621Z",
+  "total_users": 33,
+  "updated_at": "2026-04-29T01:20:14.886Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -128,14 +128,16 @@
     },
     {
       "ip": "2.56.165.206",
-      "users_count": 1,
+      "users_count": 2,
       "owners": [
-        "0xdenx"
+        "0xdenx",
+        "dontziyad"
       ],
       "server_names": [
-        "مقاطعة ايليت"
+        "مقاطعة ايليت",
+        "مقاطعة إيليت"
       ],
-      "total_resources": 22
+      "total_resources": 45
     },
     {
       "ip": "212.107.14.19",
