@@ -8,6 +8,11 @@
       "discord_id": "1185188766072197231",
       "username": "0xdenx",
       "server_name": "مقاطعة ايليت"
+    },
+    {
+      "discord_id": "1249857851040469084",
+      "username": "dontziyad",
+      "server_name": "مقاطعة إيليت"
     }
   ],
   "resources": [
@@ -186,7 +191,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-04-29T01:14:57.480Z"
+  "updated_at": "2026-04-29T01:15:34.224Z"
 }
