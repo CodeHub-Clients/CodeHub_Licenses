@@ -154,7 +154,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 13,
+      "name": "YB_Redbull",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-01T13:55:03.690Z"
+  "updated_at": "2026-05-01T13:55:04.622Z"
 }
