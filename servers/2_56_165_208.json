@@ -178,7 +178,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 15,
+      "name": "YB_Vangelico_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-01T13:55:06.416Z"
+  "updated_at": "2026-05-01T13:55:07.282Z"
 }
