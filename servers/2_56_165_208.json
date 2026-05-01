@@ -114,7 +114,15 @@
       "version": "1.0.0",
       "enforce_version": true,
       "expires_at": null
+    },
+    {
+      "product_id": 11,
+      "name": "YB_Jobs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-01T13:54:58.939Z"
+  "updated_at": "2026-05-01T13:54:59.985Z"
 }
