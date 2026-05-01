@@ -18,7 +18,15 @@
       "version": "1.0.0",
       "enforce_version": true,
       "expires_at": null
+    },
+    {
+      "product_id": 1,
+      "name": "esx_shops2",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-01T13:54:05.353Z"
+  "updated_at": "2026-05-01T13:54:47.253Z"
 }
