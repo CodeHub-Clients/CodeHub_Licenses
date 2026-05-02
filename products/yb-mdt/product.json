@@ -1,0 +1,22 @@
+{
+  "id": 29,
+  "name": "YB_MDT",
+  "slug": "yb-mdt",
+  "type": "vehicle",
+  "price": "100.00",
+  "discount_type": "none",
+  "discount_value": null,
+  "final_assets": {
+    "images": [
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/yb-mdt/images/Banner.png"
+    ],
+    "video_url": null,
+    "download_links": [
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/yb-mdt/versions/v2.0.0/downloads/YB_MDT.zip"
+    ]
+  },
+  "stock": -1,
+  "is_active": true,
+  "version": "2.0.0",
+  "updated_at": "2026-05-02T22:24:12.262Z"
+}
