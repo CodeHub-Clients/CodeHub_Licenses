@@ -1,7 +1,7 @@
 {
   "total_ips": 30,
   "total_users": 33,
-  "updated_at": "2026-05-02T02:17:59.179Z",
+  "updated_at": "2026-05-02T02:22:59.977Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -78,7 +78,7 @@
       "server_names": [
         "الرين"
       ],
-      "total_resources": 24
+      "total_resources": 26
     },
     {
       "ip": "212.107.14.21",
