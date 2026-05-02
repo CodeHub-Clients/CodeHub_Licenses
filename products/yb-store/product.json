@@ -1,0 +1,18 @@
+{
+  "id": 30,
+  "name": "YB_Store",
+  "slug": "yb-store",
+  "type": "system",
+  "price": 50,
+  "discount_type": "none",
+  "discount_value": null,
+  "final_assets": {
+    "images": [],
+    "video_url": null,
+    "download_links": []
+  },
+  "stock": -1,
+  "is_active": true,
+  "version": "1.0.0",
+  "updated_at": "2026-05-02T02:17:16.276Z"
+}
