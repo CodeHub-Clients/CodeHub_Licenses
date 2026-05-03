@@ -1,7 +1,7 @@
 {
   "total_ips": 30,
   "total_users": 33,
-  "updated_at": "2026-05-03T17:07:29.694Z",
+  "updated_at": "2026-05-03T17:12:29.470Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -59,7 +59,7 @@
       "total_resources": 21
     },
     {
-      "ip": " 82.26.74.65",
+      "ip": "77.83.242.211",
       "users_count": 1,
       "owners": [
         "ny9f"
