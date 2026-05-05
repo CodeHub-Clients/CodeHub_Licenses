@@ -1,7 +1,7 @@
 {
-  "total_ips": 30,
+  "total_ips": 29,
   "total_users": 33,
-  "updated_at": "2026-05-05T01:32:29.974Z",
+  "updated_at": "2026-05-05T01:37:29.509Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -15,15 +15,17 @@
       "total_resources": 23
     },
     {
-      "ip": "213.139.63.62",
-      "users_count": 1,
+      "ip": "212.107.14.19",
+      "users_count": 2,
       "owners": [
-        "ybv10"
+        "ybv10",
+        "eav10"
       ],
       "server_names": [
-        "كود هوب"
+        "كود هوب",
+        "CodehubTest"
       ],
-      "total_resources": 25
+      "total_resources": 48
     },
     {
       "ip": "82.26.74.111",
@@ -138,17 +140,6 @@
         "مقاطعة إيليت"
       ],
       "total_resources": 45
-    },
-    {
-      "ip": "212.107.14.19",
-      "users_count": 1,
-      "owners": [
-        "eav10"
-      ],
-      "server_names": [
-        "CodehubTest"
-      ],
-      "total_resources": 23
     },
     {
       "ip": "194.45.197.30",
