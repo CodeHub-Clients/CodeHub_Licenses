@@ -210,7 +210,15 @@
       "version": "3.0.1",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 29,
+      "name": "YB_MDT",
+      "type": "vehicle",
+      "version": "2.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-06T10:17:46.402Z"
+  "updated_at": "2026-05-06T10:17:47.443Z"
 }
