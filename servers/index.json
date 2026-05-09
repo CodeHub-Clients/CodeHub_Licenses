@@ -1,7 +1,7 @@
 {
-  "total_ips": 29,
-  "total_users": 33,
-  "updated_at": "2026-05-09T14:40:42.659Z",
+  "total_ips": 30,
+  "total_users": 34,
+  "updated_at": "2026-05-09T14:45:42.594Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -326,6 +326,17 @@
       ],
       "server_names": [
         "مقاطعة تكساس"
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "89.190.158.205",
+      "users_count": 1,
+      "owners": [
+        "r_sr3"
+      ],
+      "server_names": [
+        "مقاطعة ايكو"
       ],
       "total_resources": 1
     }
