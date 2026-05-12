@@ -3,16 +3,18 @@
   "name": "YB_Store",
   "slug": "yb-store",
   "type": "system",
-  "price": 50,
+  "price": "50.00",
   "discount_type": "none",
   "discount_value": null,
   "final_assets": {
     "images": [],
     "video_url": null,
-    "download_links": []
+    "download_links": [
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/yb-store/versions/v1.0.0/downloads/YB_Store.zip"
+    ]
   },
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-05-02T02:17:16.276Z"
+  "updated_at": "2026-05-12T22:08:51.433Z"
 }
