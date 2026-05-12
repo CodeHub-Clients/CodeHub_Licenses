@@ -3,7 +3,7 @@
   "name": "نظام طائرات الدرونز",
   "slug": "نظام-طائرات-الدرونز",
   "type": "vehicle",
-  "price": 0,
+  "price": "30.00",
   "discount_type": "none",
   "discount_value": null,
   "final_assets": {
@@ -16,5 +16,5 @@
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-05-12T21:25:17.891Z"
+  "updated_at": "2026-05-12T21:50:05.488Z"
 }
