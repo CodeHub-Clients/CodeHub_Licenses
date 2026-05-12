@@ -1,7 +1,7 @@
 {
-  "total_ips": 30,
-  "total_users": 34,
-  "updated_at": "2026-05-12T20:54:53.446Z",
+  "total_ips": 31,
+  "total_users": 35,
+  "updated_at": "2026-05-12T20:59:58.525Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -339,6 +339,17 @@
         "مقاطعة ايكو"
       ],
       "total_resources": 1
+    },
+    {
+      "ip": "77.83.242.108",
+      "users_count": 1,
+      "owners": [
+        "hh1234550347"
+      ],
+      "server_names": [
+        "مقاطعة قمر"
+      ],
+      "total_resources": 24
     }
   ]
 }
