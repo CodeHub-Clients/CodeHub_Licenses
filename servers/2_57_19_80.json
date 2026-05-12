@@ -234,7 +234,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 30,
+      "name": "YB_Store",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-12T22:09:46.236Z"
+  "updated_at": "2026-05-12T22:14:45.566Z"
 }
