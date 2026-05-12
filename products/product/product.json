@@ -1,18 +1,20 @@
 {
-  "id": 41,
-  "name": "منتج تجريبي",
-  "slug": "منتج-تجريبي",
+  "id": 42,
+  "name": "نظام طائرات الدرونز",
+  "slug": "نظام-طائرات-الدرونز",
   "type": "vehicle",
-  "price": 5,
+  "price": 0,
   "discount_type": "none",
   "discount_value": null,
   "final_assets": {
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/product/images/ch_banner-4.png"
+    ],
     "video_url": null,
     "download_links": []
   },
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-05-12T19:54:59.329Z"
+  "updated_at": "2026-05-12T21:25:17.891Z"
 }
