@@ -11,10 +11,12 @@
       "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/product/images/ch_banner-4.png"
     ],
     "video_url": null,
-    "download_links": []
+    "download_links": [
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D9%86%D8%B2/versions/v1.0.0/downloads/ch_drone.zip"
+    ]
   },
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-05-12T21:50:05.488Z"
+  "updated_at": "2026-05-12T22:01:01.903Z"
 }
