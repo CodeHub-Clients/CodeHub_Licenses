@@ -226,7 +226,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 42,
+      "name": "نظام طائرات الدرونز",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-12T21:54:44.033Z"
+  "updated_at": "2026-05-12T21:55:53.655Z"
 }
