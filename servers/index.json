@@ -1,7 +1,7 @@
 {
   "total_ips": 31,
   "total_users": 35,
-  "updated_at": "2026-05-13T08:39:56.223Z",
+  "updated_at": "2026-05-13T08:49:04.879Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -25,7 +25,7 @@
         "كود هوب",
         "CodehubTest"
       ],
-      "total_resources": 49
+      "total_resources": 50
     },
     {
       "ip": "82.26.74.111",
