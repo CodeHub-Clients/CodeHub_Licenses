@@ -1,0 +1,72 @@
+{
+  "ip": "31.56.120.250",
+  "owner_discord_id": "1409983031216832674",
+  "owner_name": "bshasha1",
+  "server_name": "ريتش تاون",
+  "owners": [
+    {
+      "discord_id": "1409983031216832674",
+      "username": "bshasha1",
+      "server_name": "ريتش تاون"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 12,
+      "name": "YB_Property",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic | تملك الورش",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 28,
+      "name": "YB_DealyReward",
+      "type": "ui",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 30,
+      "name": "YB_Store",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 31,
+      "name": "YB_SellVehicles",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 42,
+      "name": "نظام طائرات الدرونز",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-05-13T21:40:49.272Z"
+}
