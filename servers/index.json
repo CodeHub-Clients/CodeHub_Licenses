@@ -1,7 +1,7 @@
 {
-  "total_ips": 31,
-  "total_users": 35,
-  "updated_at": "2026-05-13T21:39:21.623Z",
+  "total_ips": 32,
+  "total_users": 36,
+  "updated_at": "2026-05-13T21:44:20.439Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -350,6 +350,17 @@
         "مقاطعة قمر"
       ],
       "total_resources": 24
+    },
+    {
+      "ip": "31.56.120.250",
+      "users_count": 1,
+      "owners": [
+        "bshasha1"
+      ],
+      "server_names": [
+        "ريتش تاون"
+      ],
+      "total_resources": 7
     }
   ]
 }
