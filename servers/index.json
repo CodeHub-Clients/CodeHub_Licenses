@@ -1,7 +1,7 @@
 {
   "total_ips": 31,
   "total_users": 35,
-  "updated_at": "2026-05-13T08:09:56.891Z",
+  "updated_at": "2026-05-13T08:14:58.121Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -263,13 +263,13 @@
       "total_resources": 25
     },
     {
-      "ip": "2.57.19.167",
+      "ip": "185.234.75.6 ",
       "users_count": 1,
       "owners": [
         "7.0e"
       ],
       "server_names": [
-        "مدينة السراب"
+        "منطقة الرياض"
       ],
       "total_resources": 22
     },
