@@ -8,11 +8,6 @@
       "discord_id": "1297683882958655620",
       "username": ".507i",
       "server_name": "مقاطعة ثرونز "
-    },
-    {
-      "discord_id": "1011569851862634566",
-      "username": "m85x",
-      "server_name": "مقاطعة ثرونز"
     }
   ],
   "resources": [
@@ -23,15 +18,7 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
-    },
-    {
-      "product_id": 28,
-      "name": "YB_DealyReward",
-      "type": "ui",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-14T16:29:01.391Z"
+  "updated_at": "2026-05-14T16:32:25.106Z"
 }
