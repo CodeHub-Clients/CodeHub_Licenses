@@ -1,7 +1,7 @@
 {
-  "total_ips": 32,
+  "total_ips": 33,
   "total_users": 37,
-  "updated_at": "2026-05-14T16:29:24.383Z",
+  "updated_at": "2026-05-14T16:34:23.646Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -143,16 +143,14 @@
     },
     {
       "ip": "194.45.197.30",
-      "users_count": 2,
+      "users_count": 1,
       "owners": [
-        ".507i",
-        "m85x"
+        ".507i"
       ],
       "server_names": [
-        "مقاطعة ثرونز ",
-        "مقاطعة ثرونز"
+        "مقاطعة ثرونز "
       ],
-      "total_resources": 2
+      "total_resources": 1
     },
     {
       "ip": "2.57.19.128",
@@ -363,6 +361,17 @@
         "ريتش تاون"
       ],
       "total_resources": 7
+    },
+    {
+      "ip": "2.56.165.152",
+      "users_count": 1,
+      "owners": [
+        "m85x"
+      ],
+      "server_names": [
+        "مقاطعة ثرونز"
+      ],
+      "total_resources": 1
     }
   ]
 }
