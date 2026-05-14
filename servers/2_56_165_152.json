@@ -1,0 +1,24 @@
+{
+  "ip": "2.56.165.152",
+  "owner_discord_id": "1011569851862634566",
+  "owner_name": "m85x",
+  "server_name": "مقاطعة ثرونز",
+  "owners": [
+    {
+      "discord_id": "1011569851862634566",
+      "username": "m85x",
+      "server_name": "مقاطعة ثرونز"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 28,
+      "name": "YB_DealyReward",
+      "type": "ui",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-05-14T16:32:26.527Z"
+}
