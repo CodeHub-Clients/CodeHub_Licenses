@@ -1,7 +1,7 @@
 {
   "total_ips": 33,
   "total_users": 37,
-  "updated_at": "2026-05-14T23:19:22.941Z",
+  "updated_at": "2026-05-14T23:24:19.649Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -371,7 +371,7 @@
       "server_names": [
         "مقاطعة ثرونز"
       ],
-      "total_resources": 1
+      "total_resources": 9
     }
   ]
 }
