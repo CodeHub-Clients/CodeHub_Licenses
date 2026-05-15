@@ -82,7 +82,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 8,
+      "name": "YB_Handcuff",
+      "type": "vehicle",
+      "version": "1.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-15T13:49:21.600Z"
+  "updated_at": "2026-05-15T13:53:10.980Z"
 }
