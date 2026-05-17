@@ -1,7 +1,7 @@
 {
-  "total_ips": 32,
-  "total_users": 37,
-  "updated_at": "2026-05-17T00:45:33.853Z",
+  "total_ips": 33,
+  "total_users": 38,
+  "updated_at": "2026-05-17T00:50:34.678Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -363,6 +363,17 @@
         "ريتش تاون"
       ],
       "total_resources": 7
+    },
+    {
+      "ip": "82.22.62.186",
+      "users_count": 1,
+      "owners": [
+        "uddx"
+      ],
+      "server_names": [
+        "valor"
+      ],
+      "total_resources": 0
     }
   ]
 }
