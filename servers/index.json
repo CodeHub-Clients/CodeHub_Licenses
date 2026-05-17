@@ -1,7 +1,7 @@
 {
   "total_ips": 33,
   "total_users": 38,
-  "updated_at": "2026-05-17T18:13:19.089Z",
+  "updated_at": "2026-05-17T18:18:17.936Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -218,7 +218,7 @@
       "server_names": [
         "PD1"
       ],
-      "total_resources": 12
+      "total_resources": 13
     },
     {
       "ip": "194.45.197.138",
