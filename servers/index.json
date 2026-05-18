@@ -1,7 +1,7 @@
 {
-  "total_ips": 33,
-  "total_users": 38,
-  "updated_at": "2026-05-18T12:18:27.482Z",
+  "total_ips": 34,
+  "total_users": 39,
+  "updated_at": "2026-05-18T12:23:27.347Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -372,6 +372,17 @@
       ],
       "server_names": [
         "valor"
+      ],
+      "total_resources": 0
+    },
+    {
+      "ip": "212.107.14.75",
+      "users_count": 1,
+      "owners": [
+        "501g"
+      ],
+      "server_names": [
+        "مقاطعة اوليفر"
       ],
       "total_resources": 0
     }
