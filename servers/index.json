@@ -1,7 +1,7 @@
 {
-  "total_ips": 34,
-  "total_users": 39,
-  "updated_at": "2026-05-20T02:40:37.298Z",
+  "total_ips": 35,
+  "total_users": 40,
+  "updated_at": "2026-05-20T02:45:39.021Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -385,6 +385,17 @@
         "مقاطعة اوليفر"
       ],
       "total_resources": 0
+    },
+    {
+      "ip": "2.57.19.120",
+      "users_count": 1,
+      "owners": [
+        "._4e4"
+      ],
+      "server_names": [
+        "مدينة العبية"
+      ],
+      "total_resources": 25
     }
   ]
 }
