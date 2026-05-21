@@ -1,8 +1,8 @@
 {
-  "id": 43,
-  "name": "مكبر الصوت",
-  "slug": "مكبر-الصوت",
-  "type": "vehicle",
+  "id": 44,
+  "name": "مسجل الصوت",
+  "slug": "مسجل-الصوت",
+  "type": "system",
   "price": 10,
   "discount_type": "none",
   "discount_value": null,
@@ -14,5 +14,5 @@
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-05-21T00:52:38.339Z"
+  "updated_at": "2026-05-21T00:53:01.368Z"
 }
