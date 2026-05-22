@@ -1,7 +1,7 @@
 {
   "total_ips": 35,
   "total_users": 40,
-  "updated_at": "2026-05-22T13:35:52.825Z",
+  "updated_at": "2026-05-22T13:40:48.876Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -196,7 +196,7 @@
       "server_names": [
         "مقاطعة المجد"
       ],
-      "total_resources": 22
+      "total_resources": 28
     },
     {
       "ip": "77.83.242.99",
