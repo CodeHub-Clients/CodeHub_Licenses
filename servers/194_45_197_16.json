@@ -8,6 +8,11 @@
       "discord_id": "1231277346754138196",
       "username": "is3a95",
       "server_name": "مقاطعة تكساس"
+    },
+    {
+      "discord_id": "448872635208826881",
+      "username": "zash001",
+      "server_name": "CodeHub Dev"
     }
   ],
   "resources": [
@@ -20,5 +25,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-05-22T21:55:33.368Z"
+  "updated_at": "2026-05-22T21:56:17.562Z"
 }
