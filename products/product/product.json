@@ -1,9 +1,9 @@
 {
-  "id": 45,
-  "name": "راديو",
-  "slug": "راديو",
+  "id": 46,
+  "name": "سرقة البنوك الصغيرة",
+  "slug": "سرقة-البنوك-الصغيرة",
   "type": "system",
-  "price": 10,
+  "price": 20,
   "discount_type": "none",
   "discount_value": null,
   "final_assets": {
@@ -14,5 +14,5 @@
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-05-21T00:54:06.509Z"
+  "updated_at": "2026-05-22T13:59:51.030Z"
 }
