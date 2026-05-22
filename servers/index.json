@@ -1,7 +1,7 @@
 {
   "total_ips": 35,
-  "total_users": 41,
-  "updated_at": "2026-05-22T21:55:40.452Z",
+  "total_users": 42,
+  "updated_at": "2026-05-22T22:00:41.670Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -324,12 +324,14 @@
     },
     {
       "ip": "194.45.197.16",
-      "users_count": 1,
+      "users_count": 2,
       "owners": [
-        "is3a95"
+        "is3a95",
+        "zash001"
       ],
       "server_names": [
-        "مقاطعة تكساس"
+        "مقاطعة تكساس",
+        "CodeHub Dev"
       ],
       "total_resources": 1
     },
