@@ -1,7 +1,7 @@
 {
   "total_ips": 35,
   "total_users": 42,
-  "updated_at": "2026-05-23T02:00:41.324Z",
+  "updated_at": "2026-05-23T02:05:39.108Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -333,7 +333,7 @@
         "مقاطعة تكساس",
         "CodeHub Dev"
       ],
-      "total_resources": 1
+      "total_resources": 29
     },
     {
       "ip": "89.190.158.205",
