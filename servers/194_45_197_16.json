@@ -79,7 +79,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 28,
+      "name": "YB_DealyReward",
+      "type": "ui",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-23T02:03:38.426Z"
+  "updated_at": "2026-05-23T02:03:39.286Z"
 }
