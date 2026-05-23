@@ -1,7 +1,7 @@
 {
   "total_ips": 35,
   "total_users": 42,
-  "updated_at": "2026-05-23T20:33:06.378Z",
+  "updated_at": "2026-05-23T20:38:04.727Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -298,7 +298,7 @@
       "server_names": [
         "مدينة الظل "
       ],
-      "total_resources": 2
+      "total_resources": 29
     },
     {
       "ip": "31.57.97.92",
