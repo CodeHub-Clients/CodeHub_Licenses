@@ -127,7 +127,23 @@
       "version": "1.0.0",
       "enforce_version": true,
       "expires_at": null
+    },
+    {
+      "product_id": 11,
+      "name": "YB_Jobs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic | تملك الورش",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-23T02:03:44.080Z"
+  "updated_at": "2026-05-23T02:03:45.424Z"
 }
