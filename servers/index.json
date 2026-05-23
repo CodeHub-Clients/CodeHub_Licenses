@@ -1,7 +1,7 @@
 {
   "total_ips": 35,
   "total_users": 42,
-  "updated_at": "2026-05-23T08:28:05.961Z",
+  "updated_at": "2026-05-23T08:33:05.243Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -47,7 +47,7 @@
       "server_names": [
         "مدينه الكاهون"
       ],
-      "total_resources": 22
+      "total_resources": 31
     },
     {
       "ip": "196.228.152.124",
