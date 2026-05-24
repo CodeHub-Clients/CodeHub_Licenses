@@ -1,7 +1,7 @@
 {
-  "total_ips": 38,
-  "total_users": 44,
-  "updated_at": "2026-05-24T15:33:31.271Z",
+  "total_ips": 39,
+  "total_users": 45,
+  "updated_at": "2026-05-24T15:38:34.415Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -418,6 +418,17 @@
       ],
       "server_names": [
         "مدينة العبية"
+      ],
+      "total_resources": 28
+    },
+    {
+      "ip": " 77.83.242.133",
+      "users_count": 1,
+      "owners": [
+        "o7mn"
+      ],
+      "server_names": [
+        "مــقــاطعــة جـازان"
       ],
       "total_resources": 28
     },
