@@ -8,7 +8,7 @@
   "discount_value": null,
   "final_assets": {
     "images": [],
-    "video_url": null,
+    "video_url": "https://youtu.be/x8l8MJI2FSY",
     "download_links": [
       "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/yb-store/versions/v1.0.0/downloads/YB_Store.zip"
     ]
@@ -16,5 +16,5 @@
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-05-12T22:08:51.433Z"
+  "updated_at": "2026-05-24T09:01:30.873Z"
 }
