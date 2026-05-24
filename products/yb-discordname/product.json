@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "name": "YB_DiscordName",
+  "slug": "yb-discordname",
+  "type": "vehicle",
+  "price": "0.00",
+  "discount_type": "none",
+  "discount_value": null,
+  "final_assets": {
+    "images": [
+      "https://i.imgur.com/rRDOxP8.png"
+    ],
+    "video_url": null,
+    "download_links": [
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/yb-discordname/versions/v1.0.0/downloads/YB_DiscordName.zip"
+    ]
+  },
+  "stock": -1,
+  "is_active": true,
+  "version": "1.0.0",
+  "updated_at": "2026-05-24T08:04:21.103Z"
+}
