@@ -2,8 +2,8 @@
   "id": 6,
   "name": "YB_DiscordName",
   "slug": "yb-discordname",
-  "type": "vehicle",
-  "price": "0.00",
+  "type": "system",
+  "price": "30.00",
   "discount_type": "none",
   "discount_value": null,
   "final_assets": {
@@ -18,5 +18,5 @@
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-05-24T08:04:21.103Z"
+  "updated_at": "2026-05-24T10:29:18.952Z"
 }
