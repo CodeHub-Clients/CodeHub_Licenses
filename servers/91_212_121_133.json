@@ -1,0 +1,64 @@
+{
+  "ip": "91.212.121.133",
+  "owner_discord_id": "741017278589698140",
+  "owner_name": "bh3.",
+  "server_name": "ALSALAM",
+  "owners": [
+    {
+      "discord_id": "741017278589698140",
+      "username": "bh3.",
+      "server_name": "ALSALAM"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 6,
+      "name": "YB_DiscordName",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 4,
+      "name": "سكربت الإعصار",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 7,
+      "name": "YB_Drugs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 10,
+      "name": "YB_JailSystem",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 11,
+      "name": "YB_Jobs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 19,
+      "name": "YB_ATM_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-05-24T15:02:45.295Z"
+}
