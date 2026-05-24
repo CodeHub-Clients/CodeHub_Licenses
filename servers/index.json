@@ -1,7 +1,7 @@
 {
-  "total_ips": 35,
-  "total_users": 42,
-  "updated_at": "2026-05-24T04:38:04.947Z",
+  "total_ips": 36,
+  "total_users": 43,
+  "updated_at": "2026-05-24T04:43:05.093Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -398,6 +398,17 @@
       ],
       "server_names": [
         "مدينة العبية"
+      ],
+      "total_resources": 28
+    },
+    {
+      "ip": "31.57.97.18",
+      "users_count": 1,
+      "owners": [
+        "bc__"
+      ],
+      "server_names": [
+        " المنطقة الغربية"
       ],
       "total_resources": 28
     }
