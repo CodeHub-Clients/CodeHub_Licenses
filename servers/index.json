@@ -1,7 +1,7 @@
 {
   "total_ips": 39,
   "total_users": 45,
-  "updated_at": "2026-05-24T16:03:31.004Z",
+  "updated_at": "2026-05-24T16:08:36.053Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -422,7 +422,7 @@
       "total_resources": 28
     },
     {
-      "ip": " 77.83.242.133",
+      "ip": "77.83.242.133",
       "users_count": 1,
       "owners": [
         "o7mn"
