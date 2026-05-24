@@ -1,7 +1,7 @@
 {
   "total_ips": 39,
   "total_users": 45,
-  "updated_at": "2026-05-24T23:38:34.780Z",
+  "updated_at": "2026-05-24T23:43:31.696Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -419,7 +419,7 @@
       "server_names": [
         "مدينة العبية"
       ],
-      "total_resources": 28
+      "total_resources": 29
     },
     {
       "ip": "77.83.242.133",
