@@ -1,7 +1,7 @@
 {
   "total_ips": 39,
   "total_users": 45,
-  "updated_at": "2026-05-25T01:43:32.173Z",
+  "updated_at": "2026-05-25T01:48:30.686Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -375,7 +375,7 @@
       "server_names": [
         "مقاطعة قمر"
       ],
-      "total_resources": 24
+      "total_resources": 29
     },
     {
       "ip": "31.56.120.250",
