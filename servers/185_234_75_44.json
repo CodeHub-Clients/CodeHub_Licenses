@@ -1,0 +1,24 @@
+{
+  "ip": "185.234.75.44",
+  "owner_discord_id": "626725292702040065",
+  "owner_name": "_aq4",
+  "server_name": "مقاطعة قوست",
+  "owners": [
+    {
+      "discord_id": "626725292702040065",
+      "username": "_aq4",
+      "server_name": "مقاطعة قوست"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 30,
+      "name": "YB_Store",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-05-25T02:42:25.265Z"
+}
