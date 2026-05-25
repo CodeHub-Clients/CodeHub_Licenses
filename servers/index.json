@@ -1,7 +1,7 @@
 {
-  "total_ips": 39,
-  "total_users": 45,
-  "updated_at": "2026-05-25T02:38:31.426Z",
+  "total_ips": 40,
+  "total_users": 46,
+  "updated_at": "2026-05-25T02:43:31.767Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -442,6 +442,17 @@
         " المنطقة الغربية"
       ],
       "total_resources": 28
+    },
+    {
+      "ip": "185.234.75.44",
+      "users_count": 1,
+      "owners": [
+        "_aq4"
+      ],
+      "server_names": [
+        "مقاطعة قوست"
+      ],
+      "total_resources": 1
     }
   ]
 }
