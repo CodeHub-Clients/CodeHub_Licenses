@@ -1,7 +1,7 @@
 {
   "total_ips": 39,
   "total_users": 45,
-  "updated_at": "2026-05-25T00:33:32.429Z",
+  "updated_at": "2026-05-25T00:38:30.215Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -148,7 +148,7 @@
         "eav10"
       ],
       "server_names": [
-        "CodehubTest"
+        "Codehub"
       ],
       "total_resources": 24
     },
