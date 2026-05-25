@@ -2,12 +2,12 @@
   "ip": "212.107.14.19",
   "owner_discord_id": "852772339208421417",
   "owner_name": "eav10",
-  "server_name": "CodehubTest",
+  "server_name": "Codehub",
   "owners": [
     {
       "discord_id": "852772339208421417",
       "username": "eav10",
-      "server_name": "CodehubTest"
+      "server_name": "Codehub"
     }
   ],
   "resources": [
@@ -204,5 +204,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-05-25T00:33:07.374Z"
+  "updated_at": "2026-05-25T00:34:02.792Z"
 }
