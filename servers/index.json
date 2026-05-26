@@ -1,7 +1,7 @@
 {
   "total_ips": 41,
-  "total_users": 46,
-  "updated_at": "2026-05-26T16:13:52.805Z",
+  "total_users": 47,
+  "updated_at": "2026-05-26T16:18:48.439Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -27,14 +27,15 @@
     },
     {
       "ip": "82.26.74.111",
-      "users_count": 1,
+      "users_count": 2,
       "owners": [
+        "ii5l_",
         "7447444"
       ],
       "server_names": [
         "مدينة القمة"
       ],
-      "total_resources": 27
+      "total_resources": 29
     },
     {
       "ip": "45.144.225.58",
