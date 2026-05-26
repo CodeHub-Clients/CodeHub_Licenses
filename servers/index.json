@@ -1,18 +1,18 @@
 {
   "total_ips": 41,
   "total_users": 47,
-  "updated_at": "2026-05-26T19:38:40.678Z",
+  "updated_at": "2026-05-26T19:48:40.943Z",
   "servers": [
     {
-      "ip": "0.0.0.0",
+      "ip": "89.42.88.208",
       "users_count": 1,
       "owners": [
         "777m"
       ],
       "server_names": [
-        "مقاطعة المدينة"
+        "سيرفر برمجة"
       ],
-      "total_resources": 23
+      "total_resources": 29
     },
     {
       "ip": "213.139.63.122",
