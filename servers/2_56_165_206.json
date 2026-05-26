@@ -199,7 +199,15 @@
       "version": "3.0.1",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 44,
+      "name": "مسجل الصوت",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-05-26T17:43:08.316Z"
+  "updated_at": "2026-05-26T17:45:18.301Z"
 }
