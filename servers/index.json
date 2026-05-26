@@ -1,7 +1,7 @@
 {
-  "total_ips": 40,
+  "total_ips": 41,
   "total_users": 46,
-  "updated_at": "2026-05-26T05:58:36.756Z",
+  "updated_at": "2026-05-26T06:03:39.287Z",
   "servers": [
     {
       "ip": "0.0.0.0",
@@ -333,16 +333,14 @@
     },
     {
       "ip": "194.45.197.16",
-      "users_count": 2,
+      "users_count": 1,
       "owners": [
-        "is3a95",
-        "zash001"
+        "is3a95"
       ],
       "server_names": [
-        "مقاطعة تكساس",
-        "CodeHub Dev"
+        "مقاطعة تكساس"
       ],
-      "total_resources": 29
+      "total_resources": 1
     },
     {
       "ip": "89.190.158.205",
@@ -440,6 +438,17 @@
       ],
       "server_names": [
         " المنطقة الغربية"
+      ],
+      "total_resources": 28
+    },
+    {
+      "ip": "89.42.88.43",
+      "users_count": 1,
+      "owners": [
+        "zash001"
+      ],
+      "server_names": [
+        "CodeHub Dev"
       ],
       "total_resources": 28
     },
