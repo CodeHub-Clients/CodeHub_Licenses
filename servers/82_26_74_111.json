@@ -1,9 +1,14 @@
 {
   "ip": "82.26.74.111",
-  "owner_discord_id": "1174261906501025892",
-  "owner_name": "7447444",
+  "owner_discord_id": "759056231729201154",
+  "owner_name": "ii5l_",
   "server_name": "مدينة القمة",
   "owners": [
+    {
+      "discord_id": "759056231729201154",
+      "username": "ii5l_",
+      "server_name": "مدينة القمة"
+    },
     {
       "discord_id": "1174261906501025892",
       "username": "7447444",
@@ -11,6 +16,22 @@
     }
   ],
   "resources": [
+    {
+      "product_id": 27,
+      "name": "YB_Plates",
+      "type": "ui",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 23,
+      "name": "yb_arena",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
     {
       "product_id": 1,
       "name": "esx_shops2",
@@ -196,14 +217,6 @@
       "expires_at": null
     },
     {
-      "product_id": 27,
-      "name": "YB_Plates",
-      "type": "ui",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
       "product_id": 45,
       "name": "راديو",
       "type": "system",
@@ -228,5 +241,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-05-26T16:13:00.414Z"
+  "updated_at": "2026-05-26T16:17:02.423Z"
 }
