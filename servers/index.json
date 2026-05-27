@@ -1,7 +1,7 @@
 {
   "total_ips": 41,
   "total_users": 47,
-  "updated_at": "2026-05-27T00:48:35.273Z",
+  "updated_at": "2026-05-27T00:53:37.315Z",
   "servers": [
     {
       "ip": "89.42.88.208",
@@ -35,7 +35,7 @@
       "server_names": [
         "مدينة القمة"
       ],
-      "total_resources": 29
+      "total_resources": 31
     },
     {
       "ip": "45.144.225.58",
