@@ -1,7 +1,7 @@
 {
-  "total_ips": 40,
-  "total_users": 47,
-  "updated_at": "2026-05-29T03:38:32.944Z",
+  "total_ips": 41,
+  "total_users": 48,
+  "updated_at": "2026-05-29T03:43:33.223Z",
   "servers": [
     {
       "ip": "104.28.155.160",
@@ -454,6 +454,17 @@
         "مقاطعة قوست"
       ],
       "total_resources": 1
+    },
+    {
+      "ip": "194.62.157.158",
+      "users_count": 1,
+      "owners": [
+        "u_rr"
+      ],
+      "server_names": [
+        "مقاطعة ألاسكا"
+      ],
+      "total_resources": 2
     }
   ]
 }
