@@ -1,0 +1,22 @@
+{
+  "id": 22,
+  "name": "YB_OwnedMechanic | تملك الورش",
+  "slug": "yb-ownedmechanic",
+  "type": "system",
+  "price": "49.99",
+  "discount_type": "fixed",
+  "discount_value": "39.99",
+  "final_assets": {
+    "images": [
+      "https://i.imgur.com/vaRNZhb.png"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=5dTqzfVCH14",
+    "download_links": [
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/yb-ownedmechanic/versions/v1.0.0/downloads/YB_OwnedMechanic.zip"
+    ]
+  },
+  "stock": -1,
+  "is_active": true,
+  "version": "1.0.0",
+  "updated_at": "2026-05-29T03:35:39.812Z"
+}
