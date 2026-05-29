@@ -1,0 +1,32 @@
+{
+  "ip": "194.62.157.158",
+  "owner_discord_id": "825789567479185408",
+  "owner_name": "u_rr",
+  "server_name": "مقاطعة ألاسكا",
+  "owners": [
+    {
+      "discord_id": "825789567479185408",
+      "username": "u_rr",
+      "server_name": "مقاطعة ألاسكا"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic | تملك الورش",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 24,
+      "name": "ch_AdvancedDealership ",
+      "type": "system",
+      "version": "2.0.5",
+      "enforce_version": true,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-05-29T03:40:25.690Z"
+}
