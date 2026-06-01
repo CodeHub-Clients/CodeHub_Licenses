@@ -1,7 +1,7 @@
 {
   "total_ips": 42,
   "total_users": 49,
-  "updated_at": "2026-06-01T21:22:42.695Z",
+  "updated_at": "2026-06-01T21:27:43.836Z",
   "servers": [
     {
       "ip": "104.28.155.160",
@@ -343,7 +343,7 @@
       "server_names": [
         "مقاطعة ايكو"
       ],
-      "total_resources": 1
+      "total_resources": 29
     },
     {
       "ip": "91.212.121.133",
