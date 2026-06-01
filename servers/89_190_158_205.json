@@ -154,7 +154,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 12,
+      "name": "YB_Property",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-06-01T21:24:14.836Z"
+  "updated_at": "2026-06-01T21:24:15.888Z"
 }
