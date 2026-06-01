@@ -114,7 +114,15 @@
       "version": "1.0.0",
       "enforce_version": true,
       "expires_at": null
+    },
+    {
+      "product_id": 10,
+      "name": "YB_JailSystem",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-06-01T21:24:09.072Z"
+  "updated_at": "2026-06-01T21:24:10.107Z"
 }
