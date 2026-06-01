@@ -58,7 +58,15 @@
       "version": "1.0.0",
       "enforce_version": true,
       "expires_at": null
+    },
+    {
+      "product_id": 18,
+      "name": "YB_BlackMarket",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-06-01T21:24:01.247Z"
+  "updated_at": "2026-06-01T21:24:02.461Z"
 }
