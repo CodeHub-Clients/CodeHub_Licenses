@@ -1,7 +1,7 @@
 {
   "total_ips": 42,
   "total_users": 49,
-  "updated_at": "2026-06-01T19:02:45.679Z",
+  "updated_at": "2026-06-01T19:07:52.181Z",
   "servers": [
     {
       "ip": "104.28.155.160",
@@ -302,7 +302,7 @@
       "total_resources": 29
     },
     {
-      "ip": "167.100.207.209",
+      "ip": "178.218.186.98",
       "users_count": 1,
       "owners": [
         "obv20"
