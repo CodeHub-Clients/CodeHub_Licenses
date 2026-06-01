@@ -66,7 +66,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 5,
+      "name": "YB_combatlog",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-06-01T21:24:02.461Z"
+  "updated_at": "2026-06-01T21:24:03.569Z"
 }
