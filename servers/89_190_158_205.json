@@ -178,7 +178,15 @@
       "version": "1.0.0",
       "enforce_version": true,
       "expires_at": null
+    },
+    {
+      "product_id": 31,
+      "name": "YB_SellVehicles",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-06-01T21:24:18.295Z"
+  "updated_at": "2026-06-01T21:24:19.297Z"
 }
