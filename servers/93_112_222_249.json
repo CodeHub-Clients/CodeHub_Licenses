@@ -234,7 +234,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 43,
+      "name": "مكبر الصوت",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-06-03T20:49:37.351Z"
+  "updated_at": "2026-06-03T20:49:38.816Z"
 }
