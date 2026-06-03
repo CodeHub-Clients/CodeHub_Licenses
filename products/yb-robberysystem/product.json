@@ -1,0 +1,23 @@
+{
+  "id": 16,
+  "name": "YB_RobberySystem",
+  "slug": "yb-robberysystem",
+  "type": "system",
+  "price": "50.00",
+  "discount_type": "none",
+  "discount_value": null,
+  "final_assets": {
+    "images": [
+      "https://i.imgur.com/rRDOxP8.png",
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/yb-robberysystem/images/thumbnail.png"
+    ],
+    "video_url": "https://www.youtube.com/watch?v=z7QbndY6rRU",
+    "download_links": [
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/yb-robberysystem/versions/v1.0.0/downloads/YB_RobberySystem.zip"
+    ]
+  },
+  "stock": -1,
+  "is_active": true,
+  "version": "1.0.0",
+  "updated_at": "2026-06-03T16:21:52.502Z"
+}
