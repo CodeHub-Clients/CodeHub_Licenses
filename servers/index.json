@@ -1,7 +1,7 @@
 {
-  "total_ips": 44,
+  "total_ips": 45,
   "total_users": 50,
-  "updated_at": "2026-06-03T20:37:43.494Z",
+  "updated_at": "2026-06-03T20:42:43.832Z",
   "servers": [
     {
       "ip": "104.28.155.160",
@@ -104,17 +104,15 @@
       "total_resources": 1
     },
     {
-      "ip": "194.56.226.148",
-      "users_count": 2,
+      "ip": "93.112.222.249",
+      "users_count": 1,
       "owners": [
-        "9m8w",
-        "r__uu"
+        "9m8w"
       ],
       "server_names": [
-        "مقاطعة سدني",
-        "سدني"
+        "مقاطعة سدني"
       ],
-      "total_resources": 51
+      "total_resources": 25
     },
     {
       "ip": "212.107.14.196",
@@ -320,6 +318,17 @@
         "مقاطعة الجنوب"
       ],
       "total_resources": 1
+    },
+    {
+      "ip": "194.56.226.148",
+      "users_count": 1,
+      "owners": [
+        "r__uu"
+      ],
+      "server_names": [
+        "سدني"
+      ],
+      "total_resources": 26
     },
     {
       "ip": "31.56.120.77",
