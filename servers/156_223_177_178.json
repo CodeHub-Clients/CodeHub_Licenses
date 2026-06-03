@@ -1,0 +1,24 @@
+{
+  "ip": "156.223.177.178",
+  "owner_discord_id": "1320033940861620308",
+  "owner_name": "6e5mzz",
+  "server_name": "مقاطعه سان",
+  "owners": [
+    {
+      "discord_id": "1320033940861620308",
+      "username": "6e5mzz",
+      "server_name": "مقاطعه سان"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 16,
+      "name": "YB_RobberySystem",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-06-03T11:17:48.623Z"
+}
