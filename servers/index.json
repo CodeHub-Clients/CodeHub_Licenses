@@ -1,7 +1,7 @@
 {
-  "total_ips": 43,
-  "total_users": 49,
-  "updated_at": "2026-06-03T11:12:50.644Z",
+  "total_ips": 44,
+  "total_users": 50,
+  "updated_at": "2026-06-03T11:22:51.331Z",
   "servers": [
     {
       "ip": "104.28.155.160",
@@ -483,6 +483,17 @@
       ],
       "server_names": [
         "SF5"
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "156.223.177.178",
+      "users_count": 1,
+      "owners": [
+        "6e5mzz"
+      ],
+      "server_names": [
+        "مقاطعه سان"
       ],
       "total_resources": 1
     }
