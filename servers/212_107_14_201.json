@@ -1,0 +1,24 @@
+{
+  "ip": "212.107.14.201",
+  "owner_discord_id": "986167301827072120",
+  "owner_name": "eco1",
+  "server_name": "arabcalssic",
+  "owners": [
+    {
+      "discord_id": "986167301827072120",
+      "username": "eco1",
+      "server_name": "arabcalssic"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 29,
+      "name": "YB_MDT",
+      "type": "vehicle",
+      "version": "2.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-06-03T23:34:43.842Z"
+}
