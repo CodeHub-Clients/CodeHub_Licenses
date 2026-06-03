@@ -1,7 +1,7 @@
 {
   "total_ips": 45,
   "total_users": 50,
-  "updated_at": "2026-06-03T20:47:44.616Z",
+  "updated_at": "2026-06-03T20:52:44.813Z",
   "servers": [
     {
       "ip": "104.28.155.160",
@@ -112,7 +112,7 @@
       "server_names": [
         "مقاطعة سدني"
       ],
-      "total_resources": 25
+      "total_resources": 29
     },
     {
       "ip": "212.107.14.196",
