@@ -8,7 +8,6 @@
   "discount_value": null,
   "final_assets": {
     "images": [
-      "https://i.imgur.com/rRDOxP8.png",
       "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/yb-robberysystem/images/thumbnail.png"
     ],
     "video_url": "https://www.youtube.com/watch?v=z7QbndY6rRU",
@@ -19,5 +18,5 @@
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-06-03T16:21:52.502Z"
+  "updated_at": "2026-06-03T16:23:30.075Z"
 }
