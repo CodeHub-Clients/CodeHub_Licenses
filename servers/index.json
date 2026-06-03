@@ -1,7 +1,7 @@
 {
-  "total_ips": 45,
-  "total_users": 50,
-  "updated_at": "2026-06-03T23:32:40.979Z",
+  "total_ips": 46,
+  "total_users": 51,
+  "updated_at": "2026-06-03T23:37:40.786Z",
   "servers": [
     {
       "ip": "104.28.155.160",
@@ -483,6 +483,17 @@
         "مقاطعة ألاسكا"
       ],
       "total_resources": 2
+    },
+    {
+      "ip": "212.107.14.201",
+      "users_count": 1,
+      "owners": [
+        "eco1"
+      ],
+      "server_names": [
+        "arabcalssic"
+      ],
+      "total_resources": 1
     },
     {
       "ip": "185.234.75.55",
