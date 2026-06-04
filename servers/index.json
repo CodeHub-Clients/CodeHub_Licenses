@@ -1,7 +1,7 @@
 {
-  "total_ips": 46,
-  "total_users": 51,
-  "updated_at": "2026-06-04T21:42:42.527Z",
+  "total_ips": 47,
+  "total_users": 52,
+  "updated_at": "2026-06-04T21:47:41.625Z",
   "servers": [
     {
       "ip": "104.28.155.160",
@@ -481,6 +481,17 @@
       ],
       "server_names": [
         "مقاطعة ألاسكا"
+      ],
+      "total_resources": 2
+    },
+    {
+      "ip": "77.83.242.230",
+      "users_count": 1,
+      "owners": [
+        "s.ll2"
+      ],
+      "server_names": [
+        "دار العز "
       ],
       "total_resources": 2
     },
