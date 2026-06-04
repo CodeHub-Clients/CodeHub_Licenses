@@ -1,0 +1,32 @@
+{
+  "ip": "77.83.242.230",
+  "owner_discord_id": "1504956088905240756",
+  "owner_name": "s.ll2",
+  "server_name": "دار العز ",
+  "owners": [
+    {
+      "discord_id": "1504956088905240756",
+      "username": "s.ll2",
+      "server_name": "دار العز "
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 5,
+      "name": "YB_combatlog",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic | تملك الورش",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-06-04T21:44:45.231Z"
+}
