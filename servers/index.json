@@ -1,7 +1,7 @@
 {
-  "total_ips": 47,
-  "total_users": 52,
-  "updated_at": "2026-06-05T01:12:42.714Z",
+  "total_ips": 48,
+  "total_users": 53,
+  "updated_at": "2026-06-05T01:17:42.303Z",
   "servers": [
     {
       "ip": "104.28.155.160",
@@ -349,6 +349,17 @@
       ],
       "server_names": [
         "مقاطعة تكساس"
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "45.89.125.27",
+      "users_count": 1,
+      "owners": [
+        "walalzh"
+      ],
+      "server_names": [
+        "مقاطعة بانشي"
       ],
       "total_resources": 1
     },
