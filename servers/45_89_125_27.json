@@ -1,0 +1,24 @@
+{
+  "ip": "45.89.125.27",
+  "owner_discord_id": "1165739640968450070",
+  "owner_name": "walalzh",
+  "server_name": "مقاطعة بانشي",
+  "owners": [
+    {
+      "discord_id": "1165739640968450070",
+      "username": "walalzh",
+      "server_name": "مقاطعة بانشي"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic | تملك الورش",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-06-05T01:13:14.147Z"
+}
