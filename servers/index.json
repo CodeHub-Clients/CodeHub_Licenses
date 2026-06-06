@@ -1,10 +1,10 @@
 {
   "total_ips": 48,
   "total_users": 53,
-  "updated_at": "2026-06-06T23:18:57.016Z",
+  "updated_at": "2026-06-06T23:23:50.325Z",
   "servers": [
     {
-      "ip": "104.28.155.160",
+      "ip": "104.28.162.203",
       "users_count": 1,
       "owners": [
         "777m"
