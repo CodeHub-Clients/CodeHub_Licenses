@@ -1,0 +1,40 @@
+{
+  "ip": "31.56.120.61",
+  "owner_discord_id": "733919638424911892",
+  "owner_name": "03zf",
+  "server_name": "مقاطعة لوز",
+  "owners": [
+    {
+      "discord_id": "733919638424911892",
+      "username": "03zf",
+      "server_name": "مقاطعة لوز"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 17,
+      "name": "YB_Pacificheist_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 20,
+      "name": "YB_Artheist_Robbery",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-06-08T01:05:14.639Z"
+}
