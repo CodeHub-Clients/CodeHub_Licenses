@@ -1,7 +1,7 @@
 {
-  "total_ips": 49,
-  "total_users": 54,
-  "updated_at": "2026-06-09T00:43:32.842Z",
+  "total_ips": 50,
+  "total_users": 55,
+  "updated_at": "2026-06-09T00:48:33.222Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -549,6 +549,17 @@
         "مقاطعة لوز"
       ],
       "total_resources": 3
+    },
+    {
+      "ip": "194.56.226.136",
+      "users_count": 1,
+      "owners": [
+        "oziir1"
+      ],
+      "server_names": [
+        "مقاطعة الوعد"
+      ],
+      "total_resources": 29
     }
   ]
 }
