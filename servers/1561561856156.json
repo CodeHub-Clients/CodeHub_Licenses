@@ -1,0 +1,32 @@
+{
+  "ip": "1561561856156",
+  "owner_discord_id": "1265245971961352314",
+  "owner_name": "n5sm",
+  "server_name": "يوالجي",
+  "owners": [
+    {
+      "discord_id": "1265245971961352314",
+      "username": "n5sm",
+      "server_name": "يوالجي"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 3,
+      "name": "YB_adrenaline",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 8,
+      "name": "YB_Handcuff",
+      "type": "vehicle",
+      "version": "1.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-06-10T05:32:12.941Z"
+}
