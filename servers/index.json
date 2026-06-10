@@ -1,7 +1,7 @@
 {
-  "total_ips": 50,
-  "total_users": 55,
-  "updated_at": "2026-06-10T05:30:34.773Z",
+  "total_ips": 51,
+  "total_users": 56,
+  "updated_at": "2026-06-10T05:35:35.852Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -428,6 +428,17 @@
         "مقاطعة اوليفر"
       ],
       "total_resources": 0
+    },
+    {
+      "ip": "1561561856156",
+      "users_count": 1,
+      "owners": [
+        "n5sm"
+      ],
+      "server_names": [
+        "يوالجي"
+      ],
+      "total_resources": 2
     },
     {
       "ip": "2.57.19.120",
