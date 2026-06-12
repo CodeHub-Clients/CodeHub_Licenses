@@ -1,7 +1,7 @@
 {
-  "total_ips": 51,
-  "total_users": 56,
-  "updated_at": "2026-06-12T00:57:11.709Z",
+  "total_ips": 52,
+  "total_users": 57,
+  "updated_at": "2026-06-12T01:02:15.488Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -571,6 +571,17 @@
         "مقاطعة الوعد"
       ],
       "total_resources": 29
+    },
+    {
+      "ip": "194.110.12.214",
+      "users_count": 1,
+      "owners": [
+        "9ec"
+      ],
+      "server_names": [
+        "Grave Rp"
+      ],
+      "total_resources": 1
     }
   ]
 }
