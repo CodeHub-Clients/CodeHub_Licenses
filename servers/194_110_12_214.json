@@ -1,0 +1,24 @@
+{
+  "ip": "194.110.12.214",
+  "owner_discord_id": "808870295778885642",
+  "owner_name": "9ec",
+  "server_name": "Grave Rp",
+  "owners": [
+    {
+      "discord_id": "808870295778885642",
+      "username": "9ec",
+      "server_name": "Grave Rp"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic | تملك الورش",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-06-12T00:57:35.185Z"
+}
