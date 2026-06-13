@@ -1,0 +1,48 @@
+{
+  "ip": "194.45.197.184",
+  "owner_discord_id": "766025011235389460",
+  "owner_name": "ullh",
+  "server_name": "VALIN",
+  "owners": [
+    {
+      "discord_id": "766025011235389460",
+      "username": "ullh",
+      "server_name": "VALIN"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 3,
+      "name": "YB_adrenaline",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 5,
+      "name": "YB_combatlog",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 7,
+      "name": "YB_Drugs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 8,
+      "name": "YB_Handcuff",
+      "type": "vehicle",
+      "version": "1.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-06-13T14:02:38.654Z"
+}
