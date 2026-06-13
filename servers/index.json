@@ -1,7 +1,7 @@
 {
-  "total_ips": 53,
-  "total_users": 58,
-  "updated_at": "2026-06-13T14:01:44.871Z",
+  "total_ips": 54,
+  "total_users": 59,
+  "updated_at": "2026-06-13T14:06:45.836Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -591,6 +591,17 @@
         "Grave Rp"
       ],
       "total_resources": 1
+    },
+    {
+      "ip": "194.45.197.184",
+      "users_count": 1,
+      "owners": [
+        "ullh"
+      ],
+      "server_names": [
+        "VALIN"
+      ],
+      "total_resources": 4
     }
   ]
 }
