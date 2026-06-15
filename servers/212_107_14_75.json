@@ -26,7 +26,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 3,
+      "name": "YB_adrenaline",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-06-15T23:43:49.071Z"
+  "updated_at": "2026-06-15T23:43:50.142Z"
 }
