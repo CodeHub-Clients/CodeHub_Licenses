@@ -1,7 +1,7 @@
 {
-  "total_ips": 54,
-  "total_users": 59,
-  "updated_at": "2026-06-15T15:52:12.468Z",
+  "total_ips": 55,
+  "total_users": 60,
+  "updated_at": "2026-06-15T15:57:15.015Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -602,6 +602,17 @@
         "VALIN"
       ],
       "total_resources": 4
+    },
+    {
+      "ip": "2.56.165.46",
+      "users_count": 1,
+      "owners": [
+        "o32i"
+      ],
+      "server_names": [
+        "مدينة الوادي"
+      ],
+      "total_resources": 1
     }
   ]
 }
