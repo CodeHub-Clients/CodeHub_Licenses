@@ -1,7 +1,7 @@
 {
-  "total_ips": 55,
-  "total_users": 60,
-  "updated_at": "2026-06-15T16:32:13.003Z",
+  "total_ips": 54,
+  "total_users": 59,
+  "updated_at": "2026-06-15T16:37:11.401Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -284,17 +284,6 @@
         "منطقة الرياض"
       ],
       "total_resources": 22
-    },
-    {
-      "ip": "2.56.165.75",
-      "users_count": 1,
-      "owners": [
-        "itskok0"
-      ],
-      "server_names": [
-        "مود الشرطة ED9"
-      ],
-      "total_resources": 2
     },
     {
       "ip": "185.234.75.248",
