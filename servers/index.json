@@ -1,7 +1,7 @@
 {
   "total_ips": 54,
   "total_users": 59,
-  "updated_at": "2026-06-15T14:52:22.808Z",
+  "updated_at": "2026-06-15T14:57:15.535Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -71,7 +71,7 @@
       "total_resources": 27
     },
     {
-      "ip": "2.56.165.208",
+      "ip": "2.56.165.102",
       "users_count": 1,
       "owners": [
         "iturki"
