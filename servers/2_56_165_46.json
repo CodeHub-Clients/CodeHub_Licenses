@@ -1,0 +1,24 @@
+{
+  "ip": "2.56.165.46",
+  "owner_discord_id": "828235961837813760",
+  "owner_name": "o32i",
+  "server_name": "مدينة الوادي",
+  "owners": [
+    {
+      "discord_id": "828235961837813760",
+      "username": "o32i",
+      "server_name": "مدينة الوادي"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-06-15T15:55:33.543Z"
+}
