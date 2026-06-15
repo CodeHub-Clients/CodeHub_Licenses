@@ -10,6 +10,15 @@
       "server_name": "مقاطعة اوليفر"
     }
   ],
-  "resources": [],
-  "updated_at": "2026-06-15T23:41:46.842Z"
+  "resources": [
+    {
+      "product_id": 1,
+      "name": "esx_shops2",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-06-15T23:43:47.980Z"
 }
