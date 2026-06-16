@@ -266,7 +266,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 47,
+      "name": "AdminJob",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-06-16T21:23:29.800Z"
+  "updated_at": "2026-06-16T21:27:17.374Z"
 }
