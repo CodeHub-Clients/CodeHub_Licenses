@@ -3,7 +3,7 @@
   "name": "AdminJob",
   "slug": "adminjob",
   "type": "system",
-  "price": 10,
+  "price": "50.00",
   "discount_type": "none",
   "discount_value": null,
   "final_assets": {
@@ -12,7 +12,7 @@
     "download_links": []
   },
   "stock": -1,
-  "is_active": true,
+  "is_active": false,
   "version": "1.0.0",
-  "updated_at": "2026-06-13T13:48:16.148Z"
+  "updated_at": "2026-06-16T16:26:26.951Z"
 }
