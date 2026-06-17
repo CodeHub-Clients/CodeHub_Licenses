@@ -1,7 +1,7 @@
 {
   "total_ips": 54,
   "total_users": 59,
-  "updated_at": "2026-06-17T17:29:25.721Z",
+  "updated_at": "2026-06-17T17:34:22.199Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -601,7 +601,7 @@
       "server_names": [
         "مدينة الوادي"
       ],
-      "total_resources": 2
+      "total_resources": 3
     }
   ]
 }
