@@ -1,7 +1,7 @@
 {
   "total_ips": 54,
   "total_users": 59,
-  "updated_at": "2026-06-19T07:49:50.832Z",
+  "updated_at": "2026-06-19T07:59:31.540Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -90,7 +90,7 @@
       "server_names": [
         "محافظة الرس"
       ],
-      "total_resources": 22
+      "total_resources": 28
     },
     {
       "ip": "77.83.242.163",
