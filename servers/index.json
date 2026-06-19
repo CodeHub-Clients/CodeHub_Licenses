@@ -1,7 +1,7 @@
 {
   "total_ips": 54,
   "total_users": 59,
-  "updated_at": "2026-06-19T14:58:38.966Z",
+  "updated_at": "2026-06-19T15:03:42.725Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -441,7 +441,7 @@
       "total_resources": 29
     },
     {
-      "ip": "194.56.226.156",
+      "ip": "2.56.165.170",
       "users_count": 1,
       "owners": [
         "3bgr"
