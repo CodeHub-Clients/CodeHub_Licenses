@@ -8,11 +8,6 @@
       "discord_id": "840575517399842886",
       "username": "_e5x",
       "server_name": "SQ9"
-    },
-    {
-      "discord_id": "1309682395586498655",
-      "username": "s_q_9.",
-      "server_name": "مود الشرطة SQ9 "
     }
   ],
   "resources": [
@@ -39,31 +34,7 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
-    },
-    {
-      "product_id": 17,
-      "name": "YB_Pacificheist_Robbery",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 15,
-      "name": "YB_Vangelico_Robbery",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 46,
-      "name": "سرقة البنوك الصغيرة",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-06-22T08:44:12.256Z"
+  "updated_at": "2026-06-22T08:49:00.694Z"
 }
