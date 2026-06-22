@@ -1,7 +1,7 @@
 {
-  "total_ips": 54,
+  "total_ips": 55,
   "total_users": 59,
-  "updated_at": "2026-06-22T08:45:00.020Z",
+  "updated_at": "2026-06-22T08:50:00.268Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -116,16 +116,14 @@
     },
     {
       "ip": "212.107.14.196",
-      "users_count": 2,
+      "users_count": 1,
       "owners": [
-        "_e5x",
-        "s_q_9."
+        "_e5x"
       ],
       "server_names": [
-        "SQ9",
-        "مود الشرطة SQ9 "
+        "SQ9"
       ],
-      "total_resources": 6
+      "total_resources": 3
     },
     {
       "ip": "2.56.165.206",
@@ -459,6 +457,17 @@
         "مــقــاطعــة جـازان"
       ],
       "total_resources": 28
+    },
+    {
+      "ip": "194.56.226.121",
+      "users_count": 1,
+      "owners": [
+        "s_q_9."
+      ],
+      "server_names": [
+        "مود الشرطة SQ9 "
+      ],
+      "total_resources": 3
     },
     {
       "ip": "31.57.97.18",
