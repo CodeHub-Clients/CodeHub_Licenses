@@ -1,7 +1,7 @@
 {
   "total_ips": 55,
   "total_users": 59,
-  "updated_at": "2026-06-24T12:13:14.631Z",
+  "updated_at": "2026-06-24T12:18:13.483Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -215,7 +215,7 @@
       "server_names": [
         "مقاطعة موسكو"
       ],
-      "total_resources": 22
+      "total_resources": 27
     },
     {
       "ip": "77.83.242.240",
