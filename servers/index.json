@@ -1,7 +1,7 @@
 {
   "total_ips": 55,
   "total_users": 59,
-  "updated_at": "2026-06-29T16:45:10.522Z",
+  "updated_at": "2026-06-29T16:50:10.903Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -15,7 +15,7 @@
       "total_resources": 29
     },
     {
-      "ip": "213.139.40.8",
+      "ip": "194.110.12.225",
       "users_count": 1,
       "owners": [
         "ybv10"
