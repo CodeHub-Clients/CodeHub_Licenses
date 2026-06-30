@@ -1,7 +1,7 @@
 {
   "total_ips": 55,
   "total_users": 59,
-  "updated_at": "2026-06-30T02:30:08.188Z",
+  "updated_at": "2026-06-30T02:35:06.644Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -558,7 +558,7 @@
       "total_resources": 1
     },
     {
-      "ip": "31.56.120.61",
+      "ip": "194.56.226.132",
       "users_count": 1,
       "owners": [
         "03zf"
