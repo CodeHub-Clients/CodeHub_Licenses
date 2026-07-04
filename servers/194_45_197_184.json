@@ -45,12 +45,12 @@
     },
     {
       "product_id": 47,
-      "name": "AdminJob",
+      "name": "CodeHub_AdminJob | لوحة التحكم الإدارية",
       "type": "system",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "enforce_version": false,
       "expires_at": null
     }
   ],
-  "updated_at": "2026-07-04T03:37:12.968Z"
+  "updated_at": "2026-07-04T03:42:14.421Z"
 }
