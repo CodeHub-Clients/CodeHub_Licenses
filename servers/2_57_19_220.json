@@ -1,0 +1,32 @@
+{
+  "ip": "2.57.19.220",
+  "owner_discord_id": "1317270526187802675",
+  "owner_name": "nyn25",
+  "server_name": "مدينة نهرين",
+  "owners": [
+    {
+      "discord_id": "1317270526187802675",
+      "username": "nyn25",
+      "server_name": "مدينة نهرين"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 4,
+      "name": "سكربت الإعصار",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 29,
+      "name": "YB_MDT",
+      "type": "vehicle",
+      "version": "2.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-07-04T12:09:53.265Z"
+}
