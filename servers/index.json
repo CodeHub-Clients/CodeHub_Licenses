@@ -1,7 +1,7 @@
 {
-  "total_ips": 55,
-  "total_users": 59,
-  "updated_at": "2026-07-04T12:07:18.279Z",
+  "total_ips": 56,
+  "total_users": 60,
+  "updated_at": "2026-07-04T12:12:18.156Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -611,6 +611,17 @@
         "مدينة الوادي"
       ],
       "total_resources": 3
+    },
+    {
+      "ip": "2.57.19.220",
+      "users_count": 1,
+      "owners": [
+        "nyn25"
+      ],
+      "server_names": [
+        "مدينة نهرين"
+      ],
+      "total_resources": 2
     }
   ]
 }
