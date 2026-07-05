@@ -242,7 +242,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-07-05T23:00:54.682Z"
+  "updated_at": "2026-07-05T23:01:55.541Z"
 }
