@@ -1,7 +1,7 @@
 {
-  "total_ips": 56,
-  "total_users": 60,
-  "updated_at": "2026-07-07T00:54:48.671Z",
+  "total_ips": 57,
+  "total_users": 61,
+  "updated_at": "2026-07-07T00:59:47.985Z",
   "servers": [
     {
       "ip": "104.28.162.203",
@@ -622,6 +622,17 @@
         "مدينة نهرين"
       ],
       "total_resources": 2
+    },
+    {
+      "ip": "77.83.242.24",
+      "users_count": 1,
+      "owners": [
+        "1i1i"
+      ],
+      "server_names": [
+        "ابو حمد الفنان"
+      ],
+      "total_resources": 28
     }
   ]
 }
