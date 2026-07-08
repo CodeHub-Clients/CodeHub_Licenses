@@ -266,7 +266,23 @@
       "version": "3.0.1",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 30,
+      "name": "YB_Store",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 42,
+      "name": "نظام طائرات الدرونز",
+      "type": "vehicle",
+      "version": "1.0.1",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-07-08T22:28:13.770Z"
+  "updated_at": "2026-07-08T22:28:15.209Z"
 }
