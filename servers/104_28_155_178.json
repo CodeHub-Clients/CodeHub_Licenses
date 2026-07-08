@@ -250,7 +250,23 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 24,
+      "name": "ch_AdvancedDealership ",
+      "type": "system",
+      "version": "2.0.6",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-07-08T22:28:12.141Z"
+  "updated_at": "2026-07-08T22:28:13.770Z"
 }
