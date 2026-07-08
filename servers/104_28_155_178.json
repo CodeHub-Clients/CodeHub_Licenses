@@ -282,7 +282,23 @@
       "version": "1.0.1",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 46,
+      "name": "سرقة البنوك الصغيرة",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 47,
+      "name": "CodeHub_AdminJob | لوحة التحكم الإدارية",
+      "type": "system",
+      "version": "1.1.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-07-08T22:28:15.209Z"
+  "updated_at": "2026-07-08T22:28:16.884Z"
 }
