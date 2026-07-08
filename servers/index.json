@@ -1,10 +1,10 @@
 {
   "total_ips": 57,
   "total_users": 61,
-  "updated_at": "2026-07-08T22:26:43.296Z",
+  "updated_at": "2026-07-08T22:29:21.148Z",
   "servers": [
     {
-      "ip": "104.28.162.203",
+      "ip": "104.28.155.178",
       "users_count": 1,
       "owners": [
         "777m"
@@ -12,7 +12,7 @@
       "server_names": [
         "سيرفر برمجة"
       ],
-      "total_resources": 29
+      "total_resources": 36
     },
     {
       "ip": "194.110.12.225",
