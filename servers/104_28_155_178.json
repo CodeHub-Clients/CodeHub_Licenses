@@ -290,15 +290,7 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
-    },
-    {
-      "product_id": 47,
-      "name": "CodeHub_AdminJob | لوحة التحكم الإدارية",
-      "type": "system",
-      "version": "1.1.0",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-07-09T23:32:27.388Z"
+  "updated_at": "2026-07-09T23:32:43.186Z"
 }
