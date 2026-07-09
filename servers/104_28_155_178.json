@@ -76,46 +76,6 @@
       "expires_at": null
     },
     {
-      "product_id": 14,
-      "name": "YB_Voice",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": true,
-      "expires_at": null
-    },
-    {
-      "product_id": 15,
-      "name": "YB_Vangelico_Robbery",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 16,
-      "name": "YB_RobberySystem",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": true,
-      "expires_at": null
-    },
-    {
-      "product_id": 17,
-      "name": "YB_Pacificheist_Robbery",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 18,
-      "name": "YB_BlackMarket",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
       "product_id": 19,
       "name": "YB_ATM_Robbery",
       "type": "vehicle",
@@ -124,5 +84,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-07-09T23:33:23.364Z"
+  "updated_at": "2026-07-09T23:33:25.721Z"
 }
