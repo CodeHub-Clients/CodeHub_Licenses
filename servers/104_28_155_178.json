@@ -146,47 +146,7 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
-    },
-    {
-      "product_id": 22,
-      "name": "YB_OwnedMechanic | تملك الورش",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 29,
-      "name": "YB_MDT",
-      "type": "vehicle",
-      "version": "2.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 28,
-      "name": "YB_DealyReward",
-      "type": "ui",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 27,
-      "name": "YB_Plates",
-      "type": "ui",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 31,
-      "name": "YB_SellVehicles",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-07-09T23:33:14.275Z"
+  "updated_at": "2026-07-09T23:33:17.846Z"
 }
