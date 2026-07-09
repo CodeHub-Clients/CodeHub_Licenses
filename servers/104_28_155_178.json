@@ -10,31 +10,6 @@
       "server_name": "سيرفر برمجة"
     }
   ],
-  "resources": [
-    {
-      "product_id": 4,
-      "name": "سكربت الإعصار",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 5,
-      "name": "YB_combatlog",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 19,
-      "name": "YB_ATM_Robbery",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": true,
-      "expires_at": null
-    }
-  ],
-  "updated_at": "2026-07-09T23:33:33.808Z"
+  "resources": [],
+  "updated_at": "2026-07-09T23:33:35.184Z"
 }
