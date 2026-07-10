@@ -1,7 +1,7 @@
 {
-  "total_ips": 57,
-  "total_users": 61,
-  "updated_at": "2026-07-10T02:58:48.248Z",
+  "total_ips": 58,
+  "total_users": 62,
+  "updated_at": "2026-07-10T03:03:58.306Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -611,6 +611,17 @@
         "مدينة الوادي"
       ],
       "total_resources": 3
+    },
+    {
+      "ip": "82.22.62.62",
+      "users_count": 1,
+      "owners": [
+        "._wy"
+      ],
+      "server_names": [
+        "مدينة جازان"
+      ],
+      "total_resources": 28
     },
     {
       "ip": "2.57.19.220",
