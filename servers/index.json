@@ -1,7 +1,7 @@
 {
-  "total_ips": 58,
-  "total_users": 62,
-  "updated_at": "2026-07-10T22:53:33.189Z",
+  "total_ips": 59,
+  "total_users": 63,
+  "updated_at": "2026-07-10T22:58:09.756Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -631,6 +631,17 @@
       ],
       "server_names": [
         "مدينة نهرين"
+      ],
+      "total_resources": 2
+    },
+    {
+      "ip": "89.190.158.11",
+      "users_count": 1,
+      "owners": [
+        "qbqzz"
+      ],
+      "server_names": [
+        "عبدالله الفيفي"
       ],
       "total_resources": 2
     },
