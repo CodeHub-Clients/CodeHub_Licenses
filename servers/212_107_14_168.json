@@ -1,0 +1,32 @@
+{
+  "ip": "212.107.14.168",
+  "owner_discord_id": "1386100474499043389",
+  "owner_name": "ln3h",
+  "server_name": "مود الشرطة عزم | AZM",
+  "owners": [
+    {
+      "discord_id": "1386100474499043389",
+      "username": "ln3h",
+      "server_name": "مود الشرطة عزم | AZM"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 15,
+      "name": "YB_Vangelico_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 46,
+      "name": "سرقة البنوك الصغيرة",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-07-11T21:44:28.994Z"
+}
