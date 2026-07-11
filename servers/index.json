@@ -1,7 +1,7 @@
 {
   "total_ips": 59,
   "total_users": 63,
-  "updated_at": "2026-07-11T09:28:22.857Z",
+  "updated_at": "2026-07-11T09:33:38.464Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -439,12 +439,14 @@
       "total_resources": 29
     },
     {
-      "ip": "2.56.165.170",
+      "ip": "185.234.75.124",
       "users_count": 1,
       "owners": [
         "3bgr"
       ],
-      "server_names": [],
+      "server_names": [
+        "سيرفر التست"
+      ],
       "total_resources": 32
     },
     {
