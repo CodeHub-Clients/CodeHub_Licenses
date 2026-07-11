@@ -1,7 +1,7 @@
 {
-  "total_ips": 60,
-  "total_users": 64,
-  "updated_at": "2026-07-11T21:43:43.628Z",
+  "total_ips": 61,
+  "total_users": 65,
+  "updated_at": "2026-07-11T21:48:47.657Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -558,6 +558,17 @@
         "SF5"
       ],
       "total_resources": 1
+    },
+    {
+      "ip": "212.107.14.168",
+      "users_count": 1,
+      "owners": [
+        "ln3h"
+      ],
+      "server_names": [
+        "مود الشرطة عزم | AZM"
+      ],
+      "total_resources": 2
     },
     {
       "ip": "156.223.177.178",
