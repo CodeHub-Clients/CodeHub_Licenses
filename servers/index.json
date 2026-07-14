@@ -1,7 +1,7 @@
 {
   "total_ips": 61,
   "total_users": 65,
-  "updated_at": "2026-07-14T18:05:18.954Z",
+  "updated_at": "2026-07-14T18:10:21.669Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -284,13 +284,13 @@
       "total_resources": 22
     },
     {
-      "ip": "194.56.226.128",
+      "ip": "185.227.69.64",
       "users_count": 1,
       "owners": [
         "itskok0"
       ],
       "server_names": [
-        "مود الشرطة FD4"
+        "مود الشرطة L-1"
       ],
       "total_resources": 2
     },
