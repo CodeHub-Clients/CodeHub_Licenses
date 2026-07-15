@@ -1,7 +1,7 @@
 {
-  "total_ips": 61,
-  "total_users": 65,
-  "updated_at": "2026-07-15T13:45:20.594Z",
+  "total_ips": 62,
+  "total_users": 66,
+  "updated_at": "2026-07-15T13:50:19.799Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -679,6 +679,17 @@
         "ابو حمد الفنان"
       ],
       "total_resources": 28
+    },
+    {
+      "ip": "1.3.5.2",
+      "users_count": 1,
+      "owners": [
+        "jd2gtcr4hh"
+      ],
+      "server_names": [
+        "فيوري فاملي"
+      ],
+      "total_resources": 0
     }
   ]
 }
