@@ -1,7 +1,7 @@
 {
   "total_ips": 62,
   "total_users": 66,
-  "updated_at": "2026-07-16T13:29:47.012Z",
+  "updated_at": "2026-07-16T13:34:40.298Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -491,7 +491,7 @@
       "server_names": [
         " المنطقة الغربية"
       ],
-      "total_resources": 28
+      "total_resources": 29
     },
     {
       "ip": "89.42.88.43",
