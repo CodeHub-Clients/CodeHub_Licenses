@@ -2,12 +2,12 @@
   "ip": "45.88.9.38",
   "owner_discord_id": "242652536991907850",
   "owner_name": "6lk6",
-  "server_name": "مدينة الواحة",
+  "server_name": "مقاطعة المها",
   "owners": [
     {
       "discord_id": "242652536991907850",
       "username": "6lk6",
-      "server_name": "مدينة الواحة"
+      "server_name": "مقاطعة المها"
     }
   ],
   "resources": [
@@ -204,5 +204,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-07-21T00:09:39.519Z"
+  "updated_at": "2026-07-21T00:10:32.897Z"
 }
