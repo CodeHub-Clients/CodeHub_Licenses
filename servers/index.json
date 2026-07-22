@@ -1,7 +1,7 @@
 {
-  "total_ips": 62,
-  "total_users": 66,
-  "updated_at": "2026-07-22T20:56:14.694Z",
+  "total_ips": 63,
+  "total_users": 67,
+  "updated_at": "2026-07-22T21:01:14.220Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -690,6 +690,17 @@
         "فيوري فاملي"
       ],
       "total_resources": 0
+    },
+    {
+      "ip": "2.57.19.64",
+      "users_count": 1,
+      "owners": [
+        "9pr2"
+      ],
+      "server_names": [
+        "P1 Police Mdod"
+      ],
+      "total_resources": 2
     }
   ]
 }
