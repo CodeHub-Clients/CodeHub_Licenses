@@ -1,0 +1,32 @@
+{
+  "ip": "2.57.19.64",
+  "owner_discord_id": "638823189102723133",
+  "owner_name": "9pr2",
+  "server_name": "P1 Police Mdod",
+  "owners": [
+    {
+      "discord_id": "638823189102723133",
+      "username": "9pr2",
+      "server_name": "P1 Police Mdod"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 17,
+      "name": "YB_Pacificheist_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 46,
+      "name": "سرقة البنوك الصغيرة",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-07-22T20:58:22.753Z"
+}
