@@ -1,7 +1,7 @@
 {
   "total_ips": 63,
   "total_users": 67,
-  "updated_at": "2026-07-23T06:08:52.951Z",
+  "updated_at": "2026-07-23T06:13:52.387Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -516,13 +516,13 @@
       "total_resources": 1
     },
     {
-      "ip": "142.154.75.70",
+      "ip": "87.237.52.176",
       "users_count": 1,
       "owners": [
         "u_rr"
       ],
       "server_names": [
-        "مقاطعة ألاسكا"
+        "مقاطعة كراون"
       ],
       "total_resources": 2
     },
