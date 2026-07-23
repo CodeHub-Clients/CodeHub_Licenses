@@ -202,7 +202,79 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 23,
+      "name": "yb_arena",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 28,
+      "name": "YB_DealyReward",
+      "type": "ui",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 29,
+      "name": "YB_MDT",
+      "type": "vehicle",
+      "version": "2.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 31,
+      "name": "YB_SellVehicles",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 46,
+      "name": "سرقة البنوك الصغيرة",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 43,
+      "name": "مكبر الصوت",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 30,
+      "name": "YB_Store",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 45,
+      "name": "راديو",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 44,
+      "name": "مسجل الصوت",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-07-23T03:58:07.640Z"
+  "updated_at": "2026-07-23T04:01:11.663Z"
 }
