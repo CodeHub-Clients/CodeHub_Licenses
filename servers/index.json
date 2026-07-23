@@ -1,7 +1,7 @@
 {
   "total_ips": 63,
   "total_users": 67,
-  "updated_at": "2026-07-23T03:58:49.214Z",
+  "updated_at": "2026-07-23T04:03:49.157Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -248,7 +248,7 @@
       "server_names": [
         "مقاطعة سبارك"
       ],
-      "total_resources": 24
+      "total_resources": 33
     },
     {
       "ip": "2.56.165.73",
