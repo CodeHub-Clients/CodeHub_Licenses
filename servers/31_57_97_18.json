@@ -202,7 +202,15 @@
       "version": "1.0.0",
       "enforce_version": true,
       "expires_at": null
+    },
+    {
+      "product_id": 45,
+      "name": "راديو",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-07-25T08:43:01.756Z"
+  "updated_at": "2026-07-25T08:43:02.644Z"
 }
