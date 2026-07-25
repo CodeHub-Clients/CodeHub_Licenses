@@ -90,7 +90,23 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 8,
+      "name": "YB_Handcuff",
+      "type": "vehicle",
+      "version": "1.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 9,
+      "name": "YB_Helmet",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-07-25T08:42:50.987Z"
+  "updated_at": "2026-07-25T08:42:52.405Z"
 }
