@@ -178,7 +178,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 21,
+      "name": "YB_Staffs",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-07-25T08:42:58.983Z"
+  "updated_at": "2026-07-25T08:42:59.990Z"
 }
