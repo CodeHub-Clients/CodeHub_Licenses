@@ -1,7 +1,7 @@
 {
-  "total_ips": 63,
-  "total_users": 67,
-  "updated_at": "2026-07-25T07:34:24.845Z",
+  "total_ips": 64,
+  "total_users": 68,
+  "updated_at": "2026-07-25T07:39:25.916Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -701,6 +701,17 @@
         "P1 Police Mdod"
       ],
       "total_resources": 2
+    },
+    {
+      "ip": "31.57.97.18",
+      "users_count": 1,
+      "owners": [
+        "5yail"
+      ],
+      "server_names": [
+        " المنطقة الغربية تست"
+      ],
+      "total_resources": 0
     }
   ]
 }
