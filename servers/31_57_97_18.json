@@ -10,6 +10,15 @@
       "server_name": " المنطقة الغربية تست"
     }
   ],
-  "resources": [],
-  "updated_at": "2026-07-25T08:39:23.317Z"
+  "resources": [
+    {
+      "product_id": 1,
+      "name": "esx_shops2",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-07-25T08:42:42.588Z"
 }
