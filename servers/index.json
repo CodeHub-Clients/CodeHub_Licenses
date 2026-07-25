@@ -1,7 +1,7 @@
 {
   "total_ips": 64,
   "total_users": 68,
-  "updated_at": "2026-07-25T08:49:26.491Z",
+  "updated_at": "2026-07-25T08:54:25.854Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -711,7 +711,7 @@
       "server_names": [
         " المنطقة الغربية تست"
       ],
-      "total_resources": 28
+      "total_resources": 30
     }
   ]
 }
