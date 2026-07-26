@@ -1,7 +1,7 @@
 {
   "total_ips": 65,
   "total_users": 69,
-  "updated_at": "2026-07-26T06:58:23.605Z",
+  "updated_at": "2026-07-26T07:03:22.430Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -722,7 +722,7 @@
       "server_names": [
         "مود الشرطة B9 "
       ],
-      "total_resources": 0
+      "total_resources": 3
     }
   ]
 }
