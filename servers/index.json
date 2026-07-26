@@ -1,7 +1,7 @@
 {
-  "total_ips": 64,
-  "total_users": 68,
-  "updated_at": "2026-07-26T06:53:23.367Z",
+  "total_ips": 65,
+  "total_users": 69,
+  "updated_at": "2026-07-26T06:58:23.605Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -712,6 +712,17 @@
         " المنطقة الغربية تست"
       ],
       "total_resources": 30
+    },
+    {
+      "ip": "89.190.158.104",
+      "users_count": 1,
+      "owners": [
+        "sk.1"
+      ],
+      "server_names": [
+        "مود الشرطة B9 "
+      ],
+      "total_resources": 0
     }
   ]
 }
