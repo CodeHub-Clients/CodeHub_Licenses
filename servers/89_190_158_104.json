@@ -10,6 +10,31 @@
       "server_name": "مود الشرطة B9 "
     }
   ],
-  "resources": [],
-  "updated_at": "2026-07-26T06:58:22.507Z"
+  "resources": [
+    {
+      "product_id": 20,
+      "name": "YB_Artheist_Robbery",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 17,
+      "name": "YB_Pacificheist_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 16,
+      "name": "YB_RobberySystem",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-07-26T07:01:22.748Z"
 }
