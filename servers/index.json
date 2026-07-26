@@ -1,7 +1,7 @@
 {
   "total_ips": 64,
   "total_users": 68,
-  "updated_at": "2026-07-26T04:28:24.214Z",
+  "updated_at": "2026-07-26T04:33:23.125Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -692,7 +692,7 @@
       "total_resources": 0
     },
     {
-      "ip": "2.57.19.64",
+      "ip": "194.56.226.139",
       "users_count": 1,
       "owners": [
         "9pr2"
