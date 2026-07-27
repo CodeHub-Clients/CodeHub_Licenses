@@ -1,7 +1,7 @@
 {
-  "total_ips": 65,
-  "total_users": 69,
-  "updated_at": "2026-07-27T22:58:01.220Z",
+  "total_ips": 66,
+  "total_users": 70,
+  "updated_at": "2026-07-27T23:03:04.659Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -305,6 +305,17 @@
         "مدينة الظل "
       ],
       "total_resources": 29
+    },
+    {
+      "ip": "5.231.108.22 ",
+      "users_count": 1,
+      "owners": [
+        "_sambo."
+      ],
+      "server_names": [
+        "ESX-RP"
+      ],
+      "total_resources": 28
     },
     {
       "ip": "178.218.186.98",
