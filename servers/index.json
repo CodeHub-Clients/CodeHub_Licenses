@@ -1,7 +1,7 @@
 {
-  "total_ips": 66,
-  "total_users": 70,
-  "updated_at": "2026-07-28T01:14:51.383Z",
+  "total_ips": 67,
+  "total_users": 71,
+  "updated_at": "2026-07-28T01:19:52.935Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -712,6 +712,17 @@
         "P1 Police Mdod"
       ],
       "total_resources": 2
+    },
+    {
+      "ip": "2.57.19.248",
+      "users_count": 1,
+      "owners": [
+        "ix27.2"
+      ],
+      "server_names": [
+        "مدينة برايم"
+      ],
+      "total_resources": 28
     },
     {
       "ip": "31.57.97.18",
