@@ -298,7 +298,15 @@
       "version": "1.1.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 48,
+      "name": "مزاد المركبات",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-08-02T13:36:33.958Z"
+  "updated_at": "2026-08-02T13:36:35.034Z"
 }
