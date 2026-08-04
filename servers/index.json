@@ -1,7 +1,7 @@
 {
-  "total_ips": 67,
-  "total_users": 71,
-  "updated_at": "2026-08-04T19:14:35.266Z",
+  "total_ips": 68,
+  "total_users": 72,
+  "updated_at": "2026-08-04T19:19:35.043Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -745,6 +745,17 @@
         "مود الشرطة B9 "
       ],
       "total_resources": 3
+    },
+    {
+      "ip": "45.137.98.185",
+      "users_count": 1,
+      "owners": [
+        "abuhamad.0000"
+      ],
+      "server_names": [
+        "مقاطعة فريدوم"
+      ],
+      "total_resources": 28
     }
   ]
 }
