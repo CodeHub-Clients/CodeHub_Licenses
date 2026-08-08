@@ -1,7 +1,7 @@
 {
   "total_ips": 68,
   "total_users": 72,
-  "updated_at": "2026-08-08T08:39:27.916Z",
+  "updated_at": "2026-08-08T08:44:27.439Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -648,7 +648,7 @@
       "total_resources": 3
     },
     {
-      "ip": "194.110.12.108",
+      "ip": "82.22.62.62",
       "users_count": 1,
       "owners": [
         "._wy"
