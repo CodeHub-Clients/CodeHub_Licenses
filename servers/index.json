@@ -1,7 +1,7 @@
 {
   "total_ips": 68,
   "total_users": 72,
-  "updated_at": "2026-08-12T18:49:43.482Z",
+  "updated_at": "2026-08-12T18:54:40.117Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -604,7 +604,7 @@
       "total_resources": 3
     },
     {
-      "ip": "194.56.226.136",
+      "ip": "212.107.14.252",
       "users_count": 1,
       "owners": [
         "oziir1"
