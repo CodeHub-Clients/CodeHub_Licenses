@@ -1,7 +1,7 @@
 {
   "total_ips": 68,
   "total_users": 72,
-  "updated_at": "2026-08-17T04:55:06.487Z",
+  "updated_at": "2026-08-17T05:00:07.499Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -656,7 +656,7 @@
       "server_names": [
         "مدينة جازان"
       ],
-      "total_resources": 29
+      "total_resources": 32
     },
     {
       "ip": "31.57.97.27",
