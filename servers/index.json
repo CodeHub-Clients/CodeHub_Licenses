@@ -1,7 +1,7 @@
 {
   "total_ips": 68,
   "total_users": 72,
-  "updated_at": "2026-08-21T15:07:27.266Z",
+  "updated_at": "2026-08-21T15:12:27.269Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -329,7 +329,7 @@
       "total_resources": 1
     },
     {
-      "ip": "194.56.226.148",
+      "ip": "2.57.19.159",
       "users_count": 1,
       "owners": [
         "r__uu"
