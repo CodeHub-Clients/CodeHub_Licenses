@@ -1,7 +1,7 @@
 {
-  "total_ips": 69,
-  "total_users": 72,
-  "updated_at": "2026-08-22T12:05:26.710Z",
+  "total_ips": 68,
+  "total_users": 71,
+  "updated_at": "2026-08-22T12:10:26.007Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -112,17 +112,6 @@
         "51"
       ],
       "total_resources": 1
-    },
-    {
-      "ip": "77.83.242.85",
-      "users_count": 1,
-      "owners": [
-        "9m8w"
-      ],
-      "server_names": [
-        "مقاطعة سدني"
-      ],
-      "total_resources": 29
     },
     {
       "ip": "212.107.14.196",
