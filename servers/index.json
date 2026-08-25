@@ -1,7 +1,7 @@
 {
-  "total_ips": 68,
-  "total_users": 71,
-  "updated_at": "2026-08-25T06:35:35.632Z",
+  "total_ips": 69,
+  "total_users": 72,
+  "updated_at": "2026-08-25T06:40:34.794Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -755,6 +755,17 @@
         "مقاطعة فريدوم"
       ],
       "total_resources": 28
+    },
+    {
+      "ip": "31.56.120.106",
+      "users_count": 1,
+      "owners": [
+        "s7mm"
+      ],
+      "server_names": [
+        "san"
+      ],
+      "total_resources": 1
     }
   ]
 }
