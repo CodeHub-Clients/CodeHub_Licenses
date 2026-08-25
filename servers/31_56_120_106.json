@@ -1,0 +1,24 @@
+{
+  "ip": "31.56.120.106",
+  "owner_discord_id": "1112390646855106610",
+  "owner_name": "s7mm",
+  "server_name": "san",
+  "owners": [
+    {
+      "discord_id": "1112390646855106610",
+      "username": "s7mm",
+      "server_name": "san"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 5,
+      "name": "سكربت الفصل المطور",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-08-25T06:35:23.511Z"
+}
