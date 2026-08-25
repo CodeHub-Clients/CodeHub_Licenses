@@ -1,0 +1,22 @@
+{
+  "id": 5,
+  "name": "سكربت الفصل المطور",
+  "slug": "yb-combatlog",
+  "type": "other",
+  "price": "30.00",
+  "discount_type": "fixed",
+  "discount_value": "20.00",
+  "final_assets": {
+    "images": [
+      "https://i.imgur.com/XyYrWzX.png"
+    ],
+    "video_url": null,
+    "download_links": [
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/yb-combatlog/versions/v1.0.0/downloads/YB_combatlog.zip"
+    ]
+  },
+  "stock": -1,
+  "is_active": true,
+  "version": "1.0.0",
+  "updated_at": "2026-08-25T06:30:39.654Z"
+}
