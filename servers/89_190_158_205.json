@@ -69,8 +69,8 @@
     },
     {
       "product_id": 5,
-      "name": "YB_combatlog",
-      "type": "vehicle",
+      "name": "سكربت الفصل المطور",
+      "type": "other",
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
@@ -244,5 +244,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-08-25T06:29:55.342Z"
+  "updated_at": "2026-08-25T06:34:56.714Z"
 }
