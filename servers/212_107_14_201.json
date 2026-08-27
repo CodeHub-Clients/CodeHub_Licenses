@@ -17,9 +17,7 @@
       "type": "vehicle",
       "version": "2.0.0",
       "enforce_version": false,
-      "expires_at": null,
-      "package_id": null,
-      "package_name": null
+      "expires_at": null
     },
     {
       "product_id": 10,
@@ -27,10 +25,8 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": true,
-      "expires_at": null,
-      "package_id": null,
-      "package_name": null
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-08-27T02:38:48.245Z"
+  "updated_at": "2026-08-27T02:47:53.046Z"
 }
