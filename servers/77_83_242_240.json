@@ -17,7 +17,9 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 10,
@@ -25,7 +27,9 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": true,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 12,
@@ -33,7 +37,9 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 14,
@@ -41,7 +47,9 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": true,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 15,
@@ -49,7 +57,9 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 16,
@@ -57,7 +67,9 @@
       "type": "system",
       "version": "1.0.0",
       "enforce_version": true,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 17,
@@ -65,7 +77,9 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 18,
@@ -73,7 +87,9 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 19,
@@ -81,7 +97,9 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": true,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 20,
@@ -89,7 +107,9 @@
       "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 21,
@@ -97,7 +117,9 @@
       "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 22,
@@ -105,7 +127,9 @@
       "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     },
     {
       "product_id": 29,
@@ -113,8 +137,10 @@
       "type": "vehicle",
       "version": "2.0.0",
       "enforce_version": false,
-      "expires_at": null
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     }
   ],
-  "updated_at": "2026-08-27T02:13:15.044Z"
+  "updated_at": "2026-08-27T02:23:15.840Z"
 }
