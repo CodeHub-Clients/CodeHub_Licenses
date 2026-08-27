@@ -230,7 +230,17 @@
       "expires_at": null,
       "package_id": null,
       "package_name": null
+    },
+    {
+      "product_id": 14,
+      "name": "YB_Voice",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     }
   ],
-  "updated_at": "2026-08-27T02:19:38.911Z"
+  "updated_at": "2026-08-27T02:19:39.856Z"
 }
