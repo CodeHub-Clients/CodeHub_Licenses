@@ -160,7 +160,17 @@
       "expires_at": null,
       "package_id": null,
       "package_name": null
+    },
+    {
+      "product_id": 27,
+      "name": "YB_Plates",
+      "type": "ui",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     }
   ],
-  "updated_at": "2026-08-27T02:19:31.548Z"
+  "updated_at": "2026-08-27T02:19:32.686Z"
 }
