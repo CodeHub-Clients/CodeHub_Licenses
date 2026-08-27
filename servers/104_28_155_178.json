@@ -18,23 +18,7 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
-    },
-    {
-      "product_id": 17,
-      "name": "YB_Pacificheist_Robbery",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 12,
-      "name": "YB_Property",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-08-27T02:43:44.469Z"
+  "updated_at": "2026-08-27T02:43:45.316Z"
 }
