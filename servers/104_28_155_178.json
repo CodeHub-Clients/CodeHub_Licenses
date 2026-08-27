@@ -68,30 +68,6 @@
       "expires_at": null
     },
     {
-      "product_id": 10,
-      "name": "YB_JailSystem",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": true,
-      "expires_at": null
-    },
-    {
-      "product_id": 11,
-      "name": "YB_Jobs",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 22,
-      "name": "YB_OwnedMechanic | تملك الورش",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
       "product_id": 17,
       "name": "YB_Pacificheist_Robbery",
       "type": "vehicle",
@@ -220,5 +196,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-08-27T02:43:22.055Z"
+  "updated_at": "2026-08-27T02:43:23.375Z"
 }
