@@ -106,23 +106,7 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
-    },
-    {
-      "product_id": 4,
-      "name": "سكربت الإعصار",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 5,
-      "name": "سكربت الفصل المطور",
-      "type": "other",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-08-27T02:43:35.714Z"
+  "updated_at": "2026-08-27T02:43:36.652Z"
 }
