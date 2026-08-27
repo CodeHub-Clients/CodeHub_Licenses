@@ -1,7 +1,7 @@
 {
   "total_ips": 69,
   "total_users": 72,
-  "updated_at": "2026-08-27T03:23:07.938Z",
+  "updated_at": "2026-08-27T03:46:00.408Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -111,7 +111,7 @@
       "server_names": [
         "محافظة الرس"
       ],
-      "total_resources": 28
+      "total_resources": 0
     },
     {
       "ip": "77.83.242.163",
@@ -157,7 +157,7 @@
       "server_names": [
         "Codehub"
       ],
-      "total_resources": 24
+      "total_resources": 0
     },
     {
       "ip": "194.45.197.30",
