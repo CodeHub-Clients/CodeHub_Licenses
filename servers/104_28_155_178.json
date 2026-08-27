@@ -110,7 +110,17 @@
       "expires_at": null,
       "package_id": null,
       "package_name": null
+    },
+    {
+      "product_id": 9,
+      "name": "YB_Helmet",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     }
   ],
-  "updated_at": "2026-08-27T02:19:26.365Z"
+  "updated_at": "2026-08-27T02:19:27.476Z"
 }
