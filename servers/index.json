@@ -1,7 +1,7 @@
 {
   "total_ips": 69,
   "total_users": 72,
-  "updated_at": "2026-08-27T04:31:02.165Z",
+  "updated_at": "2026-08-27T04:36:02.091Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -15,6 +15,17 @@
       "total_resources": 0
     },
     {
+      "ip": "212.107.14.21",
+      "users_count": 1,
+      "owners": [
+        "vd7me"
+      ],
+      "server_names": [
+        "محافظة الرس"
+      ],
+      "total_resources": 0
+    },
+    {
       "ip": "213.139.40.29",
       "users_count": 1,
       "owners": [
@@ -23,7 +34,7 @@
       "server_names": [
         "كود هوب"
       ],
-      "total_resources": 38
+      "total_resources": 0
     },
     {
       "ip": "82.26.74.111",
@@ -92,28 +103,6 @@
       "total_resources": 33
     },
     {
-      "ip": "99.251.216.161",
-      "users_count": 1,
-      "owners": [
-        "6lk6"
-      ],
-      "server_names": [
-        "مقاطعة المها"
-      ],
-      "total_resources": 24
-    },
-    {
-      "ip": "212.107.14.21",
-      "users_count": 1,
-      "owners": [
-        "vd7me"
-      ],
-      "server_names": [
-        "محافظة الرس"
-      ],
-      "total_resources": 0
-    },
-    {
       "ip": "77.83.242.163",
       "users_count": 1,
       "owners": [
@@ -147,6 +136,17 @@
         "مقاطعة إيليت"
       ],
       "total_resources": 49
+    },
+    {
+      "ip": "99.251.216.161",
+      "users_count": 1,
+      "owners": [
+        "6lk6"
+      ],
+      "server_names": [
+        "مقاطعة المها"
+      ],
+      "total_resources": 24
     },
     {
       "ip": "196.128.176.10",
