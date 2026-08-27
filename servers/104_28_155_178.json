@@ -80,7 +80,17 @@
       "expires_at": null,
       "package_id": null,
       "package_name": null
+    },
+    {
+      "product_id": 6,
+      "name": "YB_DiscordName",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     }
   ],
-  "updated_at": "2026-08-27T02:19:23.102Z"
+  "updated_at": "2026-08-27T02:19:24.202Z"
 }
