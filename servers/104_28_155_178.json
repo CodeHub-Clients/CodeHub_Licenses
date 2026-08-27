@@ -10,15 +10,6 @@
       "server_name": "سيرفر برمجة"
     }
   ],
-  "resources": [
-    {
-      "product_id": 6,
-      "name": "YB_DiscordName",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    }
-  ],
-  "updated_at": "2026-08-27T02:43:45.316Z"
+  "resources": [],
+  "updated_at": "2026-08-27T02:47:02.666Z"
 }
