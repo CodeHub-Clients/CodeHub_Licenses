@@ -290,7 +290,17 @@
       "expires_at": null,
       "package_id": null,
       "package_name": null
+    },
+    {
+      "product_id": 48,
+      "name": "مزاد المركبات",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     }
   ],
-  "updated_at": "2026-08-27T02:19:46.302Z"
+  "updated_at": "2026-08-27T02:19:47.379Z"
 }
