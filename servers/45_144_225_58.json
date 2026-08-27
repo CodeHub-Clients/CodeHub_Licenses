@@ -258,7 +258,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 49,
+      "name": "باقة البداية المطور",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-08-27T00:37:59.682Z"
+  "updated_at": "2026-08-27T00:39:27.295Z"
 }
