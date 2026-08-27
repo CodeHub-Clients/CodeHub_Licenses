@@ -250,7 +250,17 @@
       "expires_at": null,
       "package_id": null,
       "package_name": null
+    },
+    {
+      "product_id": 45,
+      "name": "راديو",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null,
+      "package_id": null,
+      "package_name": null
     }
   ],
-  "updated_at": "2026-08-27T02:19:40.871Z"
+  "updated_at": "2026-08-27T02:19:41.859Z"
 }
