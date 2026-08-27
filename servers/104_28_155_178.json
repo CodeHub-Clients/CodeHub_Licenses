@@ -12,14 +12,6 @@
   ],
   "resources": [
     {
-      "product_id": 2,
-      "name": "esx_trunk",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
       "product_id": 6,
       "name": "YB_DiscordName",
       "type": "system",
@@ -146,15 +138,7 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
-    },
-    {
-      "product_id": 43,
-      "name": "مكبر الصوت",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-08-27T02:43:26.631Z"
+  "updated_at": "2026-08-27T02:43:34.630Z"
 }
