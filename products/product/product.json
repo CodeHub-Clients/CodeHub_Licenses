@@ -7,8 +7,10 @@
   "discount_type": "fixed",
   "discount_value": "10.00",
   "final_assets": {
-    "images": [],
-    "video_url": null,
+    "images": [
+      "https://i.imgur.com/MFeugv2.png"
+    ],
+    "video_url": "https://youtu.be/WeEY4W2-p64",
     "download_links": [
       "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/%D8%A8%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1/versions/v1.0.0/downloads/codehub-StarterPack.zip"
     ]
@@ -16,5 +18,5 @@
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-08-27T00:39:55.906Z"
+  "updated_at": "2026-08-27T01:33:14.341Z"
 }
