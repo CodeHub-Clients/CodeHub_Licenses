@@ -90,23 +90,7 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
-    },
-    {
-      "product_id": 45,
-      "name": "راديو",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 46,
-      "name": "سرقة البنوك الصغيرة",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-08-27T02:43:36.652Z"
+  "updated_at": "2026-08-27T02:43:37.511Z"
 }
