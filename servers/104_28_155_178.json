@@ -12,25 +12,9 @@
   ],
   "resources": [
     {
-      "product_id": 1,
-      "name": "esx_shops2",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
       "product_id": 2,
       "name": "esx_trunk",
       "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 20,
-      "name": "YB_Artheist_Robbery",
-      "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
@@ -172,5 +156,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-08-27T02:43:25.141Z"
+  "updated_at": "2026-08-27T02:43:26.631Z"
 }
