@@ -17,9 +17,7 @@
       "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null,
-      "package_id": null,
-      "package_name": null
+      "expires_at": null
     },
     {
       "product_id": 4,
@@ -27,9 +25,7 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null,
-      "package_id": null,
-      "package_name": null
+      "expires_at": null
     },
     {
       "product_id": 7,
@@ -37,9 +33,7 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null,
-      "package_id": null,
-      "package_name": null
+      "expires_at": null
     },
     {
       "product_id": 10,
@@ -47,9 +41,7 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": true,
-      "expires_at": null,
-      "package_id": null,
-      "package_name": null
+      "expires_at": null
     },
     {
       "product_id": 11,
@@ -57,9 +49,7 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null,
-      "package_id": null,
-      "package_name": null
+      "expires_at": null
     },
     {
       "product_id": 19,
@@ -67,9 +57,7 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": true,
-      "expires_at": null,
-      "package_id": null,
-      "package_name": null
+      "expires_at": null
     },
     {
       "product_id": 30,
@@ -77,10 +65,8 @@
       "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": null,
-      "package_id": null,
-      "package_name": null
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-08-27T02:38:32.613Z"
+  "updated_at": "2026-08-27T02:47:37.213Z"
 }
