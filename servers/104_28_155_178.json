@@ -50,23 +50,7 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
-    },
-    {
-      "product_id": 16,
-      "name": "YB_RobberySystem",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": true,
-      "expires_at": null
-    },
-    {
-      "product_id": 31,
-      "name": "YB_SellVehicles",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-08-27T02:43:40.920Z"
+  "updated_at": "2026-08-27T02:43:41.858Z"
 }
