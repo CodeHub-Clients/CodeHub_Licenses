@@ -1,7 +1,7 @@
 {
   "total_ips": 69,
   "total_users": 72,
-  "updated_at": "2026-08-28T14:11:49.011Z",
+  "updated_at": "2026-08-28T14:16:51.457Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -721,7 +721,7 @@
       "server_names": [
         "مدينة برايم"
       ],
-      "total_resources": 29
+      "total_resources": 31
     },
     {
       "ip": "31.57.97.18",
