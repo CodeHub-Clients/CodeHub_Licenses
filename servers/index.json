@@ -1,7 +1,7 @@
 {
-  "total_ips": 69,
-  "total_users": 72,
-  "updated_at": "2026-08-28T15:46:55.429Z",
+  "total_ips": 70,
+  "total_users": 73,
+  "updated_at": "2026-08-28T15:51:51.194Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -700,6 +700,17 @@
         "فيوري فاملي"
       ],
       "total_resources": 0
+    },
+    {
+      "ip": "82.22.62.25",
+      "users_count": 1,
+      "owners": [
+        "imrolss"
+      ],
+      "server_names": [
+        "مود الشرطة M2"
+      ],
+      "total_resources": 4
     },
     {
       "ip": "194.56.226.139",
