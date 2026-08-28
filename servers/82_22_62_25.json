@@ -1,0 +1,48 @@
+{
+  "ip": "82.22.62.25",
+  "owner_discord_id": "1465115570138775759",
+  "owner_name": "imrolss",
+  "server_name": "مود الشرطة M2",
+  "owners": [
+    {
+      "discord_id": "1465115570138775759",
+      "username": "imrolss",
+      "server_name": "مود الشرطة M2"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 16,
+      "name": "YB_RobberySystem",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 17,
+      "name": "YB_Pacificheist_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 18,
+      "name": "YB_BlackMarket",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 46,
+      "name": "سرقة البنوك الصغيرة",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-08-28T15:49:39.137Z"
+}
