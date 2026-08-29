@@ -1,7 +1,7 @@
 {
-  "total_ips": 70,
-  "total_users": 73,
-  "updated_at": "2026-08-29T19:17:50.856Z",
+  "total_ips": 71,
+  "total_users": 74,
+  "updated_at": "2026-08-29T19:22:50.423Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -777,6 +777,17 @@
         "san"
       ],
       "total_resources": 1
+    },
+    {
+      "ip": "45.137.98.104",
+      "users_count": 1,
+      "owners": [
+        "vwwwwwwwwwww"
+      ],
+      "server_names": [
+        "مدينة القمة"
+      ],
+      "total_resources": 0
     }
   ]
 }
