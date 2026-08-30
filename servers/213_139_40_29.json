@@ -12,6 +12,14 @@
   ],
   "resources": [
     {
+      "product_id": 49,
+      "name": "باقة البداية المطور",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 1,
       "name": "esx_shops2",
       "type": "vehicle",
@@ -196,14 +204,6 @@
       "expires_at": null
     },
     {
-      "product_id": 49,
-      "name": "باقة البداية المطور",
-      "type": "other",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
       "product_id": 45,
       "name": "راديو",
       "type": "system",
@@ -260,5 +260,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-08-30T02:03:10.436Z"
+  "updated_at": "2026-08-30T02:06:09.115Z"
 }
