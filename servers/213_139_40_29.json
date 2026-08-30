@@ -10,6 +10,15 @@
       "server_name": "كود هوب"
     }
   ],
-  "resources": [],
-  "updated_at": "2026-08-30T02:08:32.376Z"
+  "resources": [
+    {
+      "product_id": 48,
+      "name": "مزاد المركبات",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-08-30T02:09:42.257Z"
 }
