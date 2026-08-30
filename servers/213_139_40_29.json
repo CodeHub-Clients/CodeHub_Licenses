@@ -10,15 +10,6 @@
       "server_name": "كود هوب"
     }
   ],
-  "resources": [
-    {
-      "product_id": 49,
-      "name": "باقة البداية المطور",
-      "type": "other",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    }
-  ],
-  "updated_at": "2026-08-30T02:08:30.404Z"
+  "resources": [],
+  "updated_at": "2026-08-30T02:08:32.376Z"
 }
