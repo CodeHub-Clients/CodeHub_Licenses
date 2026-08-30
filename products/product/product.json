@@ -1,22 +1,20 @@
 {
-  "id": 49,
-  "name": "باقة البداية المطور",
-  "slug": "باقة-البداية-المطور",
-  "type": "other",
-  "price": "20.00",
-  "discount_type": "fixed",
-  "discount_value": "10.00",
+  "id": 48,
+  "name": "مزاد المركبات",
+  "slug": "مزاد-المركبات",
+  "type": "system",
+  "price": "1.00",
+  "discount_type": "none",
+  "discount_value": null,
   "final_assets": {
-    "images": [
-      "https://i.imgur.com/MFeugv2.png"
-    ],
-    "video_url": "https://youtu.be/WeEY4W2-p64",
+    "images": [],
+    "video_url": null,
     "download_links": [
-      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/%D8%A8%D8%A7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1/versions/v1.0.0/downloads/codehub-StarterPack-2.zip"
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/%D9%85%D8%B2%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%A8%D8%A7%D8%AA/versions/v1.0.0/downloads/YB_AuctionCars.zip"
     ]
   },
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-08-27T01:49:42.698Z"
+  "updated_at": "2026-08-30T02:08:49.702Z"
 }
