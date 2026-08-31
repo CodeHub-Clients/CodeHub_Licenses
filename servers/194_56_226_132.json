@@ -41,6 +41,22 @@
       "expires_at": null
     },
     {
+      "product_id": 47,
+      "name": "CodeHub_AdminJob | لوحة التحكم الإدارية",
+      "type": "system",
+      "version": "1.1.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 30,
+      "name": "YB_Store",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 1,
       "name": "esx_shops2",
       "type": "vehicle",
@@ -273,5 +289,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-08-31T11:11:37.613Z"
+  "updated_at": "2026-08-31T11:13:43.123Z"
 }
