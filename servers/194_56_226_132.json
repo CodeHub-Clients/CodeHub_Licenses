@@ -1,21 +1,45 @@
 {
   "ip": "194.56.226.132",
-  "owner_discord_id": "991223282969890817",
-  "owner_name": ".33tu",
-  "server_name": "مدينة جازان تجربة ",
+  "owner_discord_id": "733919638424911892",
+  "owner_name": "03zf",
+  "server_name": "مقاطعة لوز",
   "owners": [
-    {
-      "discord_id": "991223282969890817",
-      "username": ".33tu",
-      "server_name": "مدينة جازان تجربة "
-    },
     {
       "discord_id": "733919638424911892",
       "username": "03zf",
       "server_name": "مقاطعة لوز"
+    },
+    {
+      "discord_id": "991223282969890817",
+      "username": ".33tu",
+      "server_name": "مدينة جازان تجربة "
     }
   ],
   "resources": [
+    {
+      "product_id": 17,
+      "name": "YB_Pacificheist_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 20,
+      "name": "YB_Artheist_Robbery",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
+    },
     {
       "product_id": 1,
       "name": "esx_shops2",
@@ -38,14 +62,6 @@
       "type": "other",
       "version": "1.0.0",
       "enforce_version": true,
-      "expires_at": null
-    },
-    {
-      "product_id": 20,
-      "name": "YB_Artheist_Robbery",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
       "expires_at": null
     },
     {
@@ -124,14 +140,6 @@
       "product_id": 22,
       "name": "YB_OwnedMechanic | تملك الورش",
       "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 17,
-      "name": "YB_Pacificheist_Robbery",
-      "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
@@ -263,15 +271,7 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
-    },
-    {
-      "product_id": 26,
-      "name": "YB_GangSystem",
-      "type": "system",
-      "version": "3.0.1",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-08-31T01:21:24.896Z"
+  "updated_at": "2026-08-31T01:26:32.454Z"
 }
