@@ -1,7 +1,7 @@
 {
-  "total_ips": 72,
-  "total_users": 77,
-  "updated_at": "2026-08-31T01:21:53.068Z",
+  "total_ips": 73,
+  "total_users": 78,
+  "updated_at": "2026-08-31T01:26:53.006Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -11,17 +11,6 @@
       ],
       "server_names": [
         "سيرفر برمجة"
-      ],
-      "total_resources": 0
-    },
-    {
-      "ip": "194.110.12.225",
-      "users_count": 1,
-      "owners": [
-        "vd7me"
-      ],
-      "server_names": [
-        "محافظة الرس"
       ],
       "total_resources": 0
     },
@@ -103,6 +92,17 @@
       "total_resources": 33
     },
     {
+      "ip": "194.110.12.225",
+      "users_count": 1,
+      "owners": [
+        "vd7me"
+      ],
+      "server_names": [
+        "محافظة الرس"
+      ],
+      "total_resources": 0
+    },
+    {
       "ip": "77.83.242.163",
       "users_count": 1,
       "owners": [
@@ -151,17 +151,6 @@
       "total_resources": 49
     },
     {
-      "ip": "99.251.216.161",
-      "users_count": 1,
-      "owners": [
-        "6lk6"
-      ],
-      "server_names": [
-        "مقاطعة المها"
-      ],
-      "total_resources": 24
-    },
-    {
       "ip": "196.128.176.10",
       "users_count": 1,
       "owners": [
@@ -206,6 +195,17 @@
         "مقاطعة سولار"
       ],
       "total_resources": 4
+    },
+    {
+      "ip": "99.251.216.161",
+      "users_count": 1,
+      "owners": [
+        "6lk6"
+      ],
+      "server_names": [
+        "مقاطعة المها"
+      ],
+      "total_resources": 24
     },
     {
       "ip": "45.137.98.83",
@@ -528,19 +528,6 @@
       "total_resources": 28
     },
     {
-      "ip": "194.56.226.132",
-      "users_count": 2,
-      "owners": [
-        ".33tu",
-        "03zf"
-      ],
-      "server_names": [
-        "مدينة جازان تجربة ",
-        "مقاطعة لوز"
-      ],
-      "total_resources": 3
-    },
-    {
       "ip": "185.234.75.44",
       "users_count": 1,
       "owners": [
@@ -616,6 +603,19 @@
         "مقاطعه سان"
       ],
       "total_resources": 1
+    },
+    {
+      "ip": "194.56.226.132",
+      "users_count": 2,
+      "owners": [
+        "03zf",
+        ".33tu"
+      ],
+      "server_names": [
+        "مقاطعة لوز",
+        "مدينة جازان تجربة "
+      ],
+      "total_resources": 3
     },
     {
       "ip": "212.107.14.252",
@@ -790,6 +790,17 @@
       ],
       "server_names": [
         "san"
+      ],
+      "total_resources": 1
+    },
+    {
+      "ip": "194.56.226.71",
+      "users_count": 1,
+      "owners": [
+        "ibrahim91111"
+      ],
+      "server_names": [
+        "مقاطعة الـ70"
       ],
       "total_resources": 1
     },
