@@ -3,16 +3,18 @@
   "name": "سكربت الستيكر المطور",
   "slug": "سكربت-الستيكر-المطور",
   "type": "system",
-  "price": 30,
+  "price": "30.00",
   "discount_type": "none",
   "discount_value": null,
   "final_assets": {
     "images": [],
     "video_url": null,
-    "download_links": []
+    "download_links": [
+      "https://raw.githubusercontent.com/CodeHub-Clients/CodeHub_Licenses/main/products/%D8%B3%D9%83%D8%B1%D8%A8%D8%AA-%D8%A7%D9%84%D8%B3%D8%AA%D9%8A%D9%83%D8%B1-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D8%B1/versions/v1.0.0/downloads/codehub_stickers.zip"
+    ]
   },
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-09-01T13:54:11.056Z"
+  "updated_at": "2026-09-01T13:56:05.129Z"
 }
