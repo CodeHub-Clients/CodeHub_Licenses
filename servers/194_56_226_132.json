@@ -57,6 +57,14 @@
       "expires_at": null
     },
     {
+      "product_id": 50,
+      "name": "سكربت الستيكر المطور",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 1,
       "name": "esx_shops2",
       "type": "vehicle",
@@ -289,5 +297,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-09-01T13:53:10.331Z"
+  "updated_at": "2026-09-01T13:56:36.759Z"
 }
