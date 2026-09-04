@@ -1,14 +1,9 @@
 {
   "ip": "77.83.242.85",
-  "owner_discord_id": "1397176097770049577",
-  "owner_name": "9m8w",
-  "server_name": "مقاطعة سدني",
+  "owner_discord_id": "1444097626466287720",
+  "owner_name": "gz_76",
+  "server_name": "مقاطعة السمو",
   "owners": [
-    {
-      "discord_id": "1397176097770049577",
-      "username": "9m8w",
-      "server_name": "مقاطعة سدني"
-    },
     {
       "discord_id": "1444097626466287720",
       "username": "gz_76",
@@ -265,5 +260,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-09-04T16:48:01.772Z"
+  "updated_at": "2026-09-04T16:50:57.206Z"
 }
