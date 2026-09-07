@@ -1,7 +1,7 @@
 {
   "total_ips": 75,
   "total_users": 79,
-  "updated_at": "2026-09-07T21:18:16.467Z",
+  "updated_at": "2026-09-07T21:23:14.139Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -811,7 +811,7 @@
       "server_names": [
         "san"
       ],
-      "total_resources": 1
+      "total_resources": 2
     },
     {
       "ip": "194.56.226.71",
