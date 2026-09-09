@@ -1,7 +1,7 @@
 {
-  "total_ips": 75,
-  "total_users": 79,
-  "updated_at": "2026-09-09T19:17:36.031Z",
+  "total_ips": 76,
+  "total_users": 80,
+  "updated_at": "2026-09-09T19:22:36.521Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -832,6 +832,17 @@
       ],
       "server_names": [
         "مدينة القمة"
+      ],
+      "total_resources": 0
+    },
+    {
+      "ip": "31.6.50.244",
+      "users_count": 1,
+      "owners": [
+        "21p."
+      ],
+      "server_names": [
+        "مقاطعة العرين"
       ],
       "total_resources": 0
     }
