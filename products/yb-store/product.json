@@ -1,6 +1,6 @@
 {
   "id": 30,
-  "name": "YB_Store",
+  "name": "سكربت المتجر المتطور",
   "slug": "yb-store",
   "type": "system",
   "price": "50.00",
@@ -18,5 +18,5 @@
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-05-24T09:02:12.599Z"
+  "updated_at": "2026-09-12T09:34:25.638Z"
 }
