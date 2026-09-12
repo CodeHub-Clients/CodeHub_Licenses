@@ -50,7 +50,7 @@
     },
     {
       "product_id": 30,
-      "name": "YB_Store",
+      "name": "سكربت المتجر المتطور",
       "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
@@ -297,5 +297,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-09-12T09:31:51.441Z"
+  "updated_at": "2026-09-12T09:36:50.627Z"
 }
