@@ -1,7 +1,7 @@
 {
-  "total_ips": 79,
-  "total_users": 83,
-  "updated_at": "2026-09-13T22:37:34.551Z",
+  "total_ips": 80,
+  "total_users": 84,
+  "updated_at": "2026-09-13T22:42:32.148Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -878,6 +878,17 @@
         "مقاطعة دجاجة القمر"
       ],
       "total_resources": 0
+    },
+    {
+      "ip": "94.249.233.114",
+      "users_count": 1,
+      "owners": [
+        "lyt.i"
+      ],
+      "server_names": [
+        "مود الشرطة ملهم "
+      ],
+      "total_resources": 3
     }
   ]
 }
