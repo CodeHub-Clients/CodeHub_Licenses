@@ -1,0 +1,40 @@
+{
+  "ip": "94.249.233.114",
+  "owner_discord_id": "1106017717447839755",
+  "owner_name": "lyt.i",
+  "server_name": "مود الشرطة ملهم ",
+  "owners": [
+    {
+      "discord_id": "1106017717447839755",
+      "username": "lyt.i",
+      "server_name": "مود الشرطة ملهم "
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 16,
+      "name": "YB_RobberySystem",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 19,
+      "name": "YB_ATM_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 7,
+      "name": "YB_Drugs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-09-13T22:42:31.015Z"
+}
