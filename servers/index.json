@@ -1,7 +1,7 @@
 {
-  "total_ips": 78,
-  "total_users": 82,
-  "updated_at": "2026-09-13T21:47:31.946Z",
+  "total_ips": 79,
+  "total_users": 83,
+  "updated_at": "2026-09-13T21:52:32.427Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -724,6 +724,17 @@
         "ابو حمد الفنان"
       ],
       "total_resources": 28
+    },
+    {
+      "ip": "89.190.158.71",
+      "users_count": 1,
+      "owners": [
+        "i_811"
+      ],
+      "server_names": [
+        "قتال السلاطين"
+      ],
+      "total_resources": 0
     },
     {
       "ip": "1.3.5.2",
