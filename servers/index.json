@@ -1,7 +1,7 @@
 {
-  "total_ips": 77,
-  "total_users": 81,
-  "updated_at": "2026-09-13T05:42:16.378Z",
+  "total_ips": 78,
+  "total_users": 82,
+  "updated_at": "2026-09-13T05:47:17.531Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -524,6 +524,17 @@
         "CodeHub Dev"
       ],
       "total_resources": 28
+    },
+    {
+      "ip": "31.56.120.172",
+      "users_count": 1,
+      "owners": [
+        "i2.o"
+      ],
+      "server_names": [
+        "مو الشرطة B9 "
+      ],
+      "total_resources": 0
     },
     {
       "ip": "185.234.75.44",
