@@ -20,6 +20,70 @@
       "expires_at": null
     },
     {
+      "product_id": 30,
+      "name": "سكربت المتجر المتطور",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 51,
+      "name": "سكربت مناطق الزومبي",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 42,
+      "name": "نظام طائرات الدرونز",
+      "type": "vehicle",
+      "version": "1.0.1",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 24,
+      "name": "ch_AdvancedDealership ",
+      "type": "system",
+      "version": "2.0.6",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 47,
+      "name": "CodeHub_AdminJob | لوحة التحكم الإدارية",
+      "type": "system",
+      "version": "1.1.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 23,
+      "name": "yb_arena",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 26,
+      "name": "YB_GangSystem",
+      "type": "system",
+      "version": "3.0.1",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 29,
+      "name": "YB_MDT",
+      "type": "vehicle",
+      "version": "2.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 1,
       "name": "esx_shops2",
       "type": "vehicle",
@@ -268,5 +332,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-09-13T11:56:08.462Z"
+  "updated_at": "2026-09-13T11:58:22.939Z"
 }
