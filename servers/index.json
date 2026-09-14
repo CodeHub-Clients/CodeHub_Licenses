@@ -1,7 +1,7 @@
 {
-  "total_ips": 80,
-  "total_users": 84,
-  "updated_at": "2026-09-14T20:32:32.477Z",
+  "total_ips": 81,
+  "total_users": 85,
+  "updated_at": "2026-09-14T20:37:33.544Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -889,6 +889,17 @@
         "مود الشرطة ملهم "
       ],
       "total_resources": 3
+    },
+    {
+      "ip": "194.110.12.72",
+      "users_count": 1,
+      "owners": [
+        "sk_sm"
+      ],
+      "server_names": [
+        "تست السمو"
+      ],
+      "total_resources": 0
     }
   ]
 }
