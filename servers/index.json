@@ -1,7 +1,7 @@
 {
   "total_ips": 81,
   "total_users": 85,
-  "updated_at": "2026-09-16T05:57:16.732Z",
+  "updated_at": "2026-09-16T06:02:19.775Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -504,7 +504,7 @@
       "total_resources": 3
     },
     {
-      "ip": "77.83.242.112",
+      "ip": "145.82.135.191",
       "users_count": 1,
       "owners": [
         "bc__"
