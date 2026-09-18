@@ -1,0 +1,24 @@
+{
+  "ip": "77.83.242.87",
+  "owner_discord_id": "1284822442212327528",
+  "owner_name": "o.hta",
+  "server_name": "Police Mod Hw8",
+  "owners": [
+    {
+      "discord_id": "1284822442212327528",
+      "username": "o.hta",
+      "server_name": "Police Mod Hw8"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic | تملك الورش",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-09-18T17:24:58.208Z"
+}
