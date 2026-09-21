@@ -274,7 +274,15 @@
       "version": "1.1.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 50,
+      "name": "سكربت الستيكر المطور",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-09-21T06:01:12.148Z"
+  "updated_at": "2026-09-21T06:06:11.461Z"
 }
