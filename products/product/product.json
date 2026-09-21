@@ -1,9 +1,9 @@
 {
-  "id": 52,
-  "name": "حالة السيرفر المتطورة",
-  "slug": "حالة-السيرفر-المتطورة",
-  "type": "ui",
-  "price": 15,
+  "id": 53,
+  "name": "نظام تملك المعارض والتجارة",
+  "slug": "نظام-تملك-المعارض-والتجارة",
+  "type": "system",
+  "price": 40,
   "discount_type": "none",
   "discount_value": null,
   "final_assets": {
@@ -14,5 +14,5 @@
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-09-13T21:49:05.459Z"
+  "updated_at": "2026-09-21T02:49:04.253Z"
 }
