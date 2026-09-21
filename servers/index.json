@@ -1,7 +1,7 @@
 {
   "total_ips": 81,
   "total_users": 86,
-  "updated_at": "2026-09-21T02:52:28.099Z",
+  "updated_at": "2026-09-21T02:57:26.315Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -457,7 +457,7 @@
       "server_names": [
         "Police Mod Hw8"
       ],
-      "total_resources": 1
+      "total_resources": 2
     },
     {
       "ip": "1561561856156",
