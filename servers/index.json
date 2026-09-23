@@ -1,7 +1,7 @@
 {
   "total_ips": 81,
   "total_users": 86,
-  "updated_at": "2026-09-23T01:12:38.433Z",
+  "updated_at": "2026-09-23T01:17:41.089Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -736,7 +736,7 @@
       "server_names": [
         "ابو حمد الفنان"
       ],
-      "total_resources": 28
+      "total_resources": 29
     },
     {
       "ip": "89.190.158.71",
