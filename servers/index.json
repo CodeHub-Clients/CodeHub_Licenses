@@ -1,7 +1,7 @@
 {
   "total_ips": 81,
   "total_users": 86,
-  "updated_at": "2026-09-24T01:02:37.117Z",
+  "updated_at": "2026-09-24T01:07:37.315Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -507,7 +507,7 @@
       "ip": "194.56.226.121",
       "users_count": 1,
       "owners": [
-        "s_q_9."
+        "s_q_.9"
       ],
       "server_names": [
         "مود الشرطة SQ9 "
