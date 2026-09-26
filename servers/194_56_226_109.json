@@ -1,16 +1,24 @@
 {
   "ip": "194.56.226.109",
-  "owner_discord_id": "796879919258140733",
-  "owner_name": "oziir1",
+  "owner_discord_id": "1478153711279935664",
+  "owner_name": "oua4",
   "server_name": "مقاطعة الوعد",
   "owners": [
     {
-      "discord_id": "796879919258140733",
-      "username": "oziir1",
+      "discord_id": "1478153711279935664",
+      "username": "oua4",
       "server_name": "مقاطعة الوعد"
     }
   ],
   "resources": [
+    {
+      "product_id": 30,
+      "name": "سكربت المتجر المتطور",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
     {
       "product_id": 1,
       "name": "esx_shops2",
@@ -55,14 +63,6 @@
       "product_id": 18,
       "name": "YB_BlackMarket",
       "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 5,
-      "name": "سكربت الفصل المطور",
-      "type": "other",
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
@@ -204,8 +204,24 @@
       "expires_at": null
     },
     {
+      "product_id": 49,
+      "name": "باقة البداية المطور",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 45,
       "name": "راديو",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 46,
+      "name": "سرقة البنوك الصغيرة",
       "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
@@ -215,6 +231,22 @@
       "product_id": 4,
       "name": "سكربت الإعصار",
       "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 5,
+      "name": "سكربت الفصل المطور",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 48,
+      "name": "مزاد المركبات",
+      "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
@@ -234,31 +266,7 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
-    },
-    {
-      "product_id": 46,
-      "name": "سرقة البنوك الصغيرة",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 26,
-      "name": "YB_GangSystem",
-      "type": "system",
-      "version": "3.0.1",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 48,
-      "name": "مزاد المركبات",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
     }
   ],
-  "updated_at": "2026-09-26T01:02:10.343Z"
+  "updated_at": "2026-09-26T01:03:06.215Z"
 }
