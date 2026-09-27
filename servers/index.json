@@ -1,7 +1,7 @@
 {
   "total_ips": 81,
   "total_users": 86,
-  "updated_at": "2026-09-27T16:17:18.105Z",
+  "updated_at": "2026-09-27T16:22:19.561Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -901,7 +901,7 @@
       "server_names": [
         "مقاطعة الوعد"
       ],
-      "total_resources": 1
+      "total_resources": 2
     }
   ]
 }
