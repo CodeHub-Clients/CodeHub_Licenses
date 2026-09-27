@@ -20,14 +20,6 @@
       "expires_at": null
     },
     {
-      "product_id": 26,
-      "name": "YB_GangSystem",
-      "type": "system",
-      "version": "3.0.1",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
       "product_id": 1,
       "name": "esx_shops2",
       "type": "vehicle",
@@ -276,5 +268,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-09-27T16:16:42.909Z"
+  "updated_at": "2026-09-27T16:17:16.798Z"
 }
