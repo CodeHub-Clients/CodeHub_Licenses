@@ -282,7 +282,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 51,
+      "name": "سكربت مناطق الزومبي",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-09-28T06:36:19.757Z"
+  "updated_at": "2026-09-28T06:39:14.452Z"
 }
