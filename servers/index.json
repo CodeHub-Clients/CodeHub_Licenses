@@ -1,7 +1,7 @@
 {
   "total_ips": 81,
   "total_users": 86,
-  "updated_at": "2026-09-28T06:37:51.335Z",
+  "updated_at": "2026-09-28T06:42:46.785Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -23,7 +23,7 @@
       "server_names": [
         "كود هوب"
       ],
-      "total_resources": 3
+      "total_resources": 5
     },
     {
       "ip": "82.26.74.111",
@@ -89,7 +89,7 @@
       "server_names": [
         "الرين"
       ],
-      "total_resources": 34
+      "total_resources": 35
     },
     {
       "ip": "194.110.12.225",
