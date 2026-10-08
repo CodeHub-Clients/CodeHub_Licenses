@@ -1,7 +1,7 @@
 {
-  "total_ips": 82,
-  "total_users": 86,
-  "updated_at": "2026-10-08T00:29:24.727Z",
+  "total_ips": 83,
+  "total_users": 87,
+  "updated_at": "2026-10-08T00:34:33.561Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -911,6 +911,17 @@
         "مقاطعة الوعد"
       ],
       "total_resources": 2
+    },
+    {
+      "ip": "45.88.9.74",
+      "users_count": 1,
+      "owners": [
+        "t82w"
+      ],
+      "server_names": [
+        "FLM"
+      ],
+      "total_resources": 17
     }
   ]
 }
