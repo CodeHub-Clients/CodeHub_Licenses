@@ -1,7 +1,7 @@
 {
-  "total_ips": 83,
-  "total_users": 87,
-  "updated_at": "2026-10-09T23:07:34.941Z",
+  "total_ips": 84,
+  "total_users": 88,
+  "updated_at": "2026-10-09T23:12:36.155Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -922,6 +922,17 @@
         "FLM"
       ],
       "total_resources": 17
+    },
+    {
+      "ip": "82.47.101.203",
+      "users_count": 1,
+      "owners": [
+        "nawaf.n.g"
+      ],
+      "server_names": [
+        "اكتفينا"
+      ],
+      "total_resources": 0
     }
   ]
 }
