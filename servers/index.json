@@ -1,7 +1,7 @@
 {
   "total_ips": 85,
   "total_users": 89,
-  "updated_at": "2026-10-11T23:08:06.175Z",
+  "updated_at": "2026-10-11T23:13:07.464Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -26,13 +26,13 @@
       "total_resources": 5
     },
     {
-      "ip": "82.26.74.111",
+      "ip": "2.57.19.104",
       "users_count": 1,
       "owners": [
         "ii5l_"
       ],
       "server_names": [
-        "مدينة القمة"
+        "مدينة برستن"
       ],
       "total_resources": 2
     },
