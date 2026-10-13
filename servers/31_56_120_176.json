@@ -1,0 +1,32 @@
+{
+  "ip": "31.56.120.176",
+  "owner_discord_id": "1112390646855106610",
+  "owner_name": "s7mm",
+  "server_name": "san",
+  "owners": [
+    {
+      "discord_id": "1112390646855106610",
+      "username": "s7mm",
+      "server_name": "san"
+    }
+  ],
+  "resources": [
+    {
+      "product_id": 5,
+      "name": "سكربت الفصل المطور",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 22,
+      "name": "YB_OwnedMechanic | تملك الورش",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-10-13T16:40:42.494Z"
+}
