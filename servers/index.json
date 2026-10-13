@@ -1,7 +1,7 @@
 {
   "total_ips": 85,
   "total_users": 89,
-  "updated_at": "2026-10-13T03:17:49.779Z",
+  "updated_at": "2026-10-13T03:22:51.179Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -932,7 +932,7 @@
       "server_names": [
         "FLM"
       ],
-      "total_resources": 17
+      "total_resources": 19
     },
     {
       "ip": "82.47.101.203",
