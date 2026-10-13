@@ -146,7 +146,23 @@
       "version": "1.0.0",
       "enforce_version": true,
       "expires_at": null
+    },
+    {
+      "product_id": 54,
+      "name": "PD_Core",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 55,
+      "name": "PD_GarageSystem",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-10-13T03:17:47.046Z"
+  "updated_at": "2026-10-13T03:21:42.802Z"
 }
