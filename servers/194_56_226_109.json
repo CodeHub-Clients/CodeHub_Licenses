@@ -220,6 +220,14 @@
       "expires_at": null
     },
     {
+      "product_id": 56,
+      "name": "برا السالفة",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 45,
       "name": "راديو",
       "type": "system",
@@ -274,7 +282,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 57,
+      "name": "نظام الستريمر",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-10-20T03:58:08.700Z"
+  "updated_at": "2026-10-20T04:03:12.238Z"
 }
