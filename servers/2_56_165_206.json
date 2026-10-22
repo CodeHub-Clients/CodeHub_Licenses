@@ -25,19 +25,19 @@
       "expires_at": null
     },
     {
-      "product_id": 3,
-      "name": "YB_adrenaline",
-      "type": "other",
-      "version": "1.0.0",
-      "enforce_version": true,
-      "expires_at": null
-    },
-    {
       "product_id": 2,
       "name": "esx_trunk",
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 3,
+      "name": "YB_adrenaline",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": true,
       "expires_at": null
     },
     {
@@ -65,10 +65,34 @@
       "expires_at": null
     },
     {
+      "product_id": 5,
+      "name": "سكربت الفصل المطور",
+      "type": "other",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 6,
       "name": "YB_DiscordName",
       "type": "system",
       "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 7,
+      "name": "YB_Drugs",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 8,
+      "name": "YB_Handcuff",
+      "type": "vehicle",
+      "version": "1.0",
       "enforce_version": false,
       "expires_at": null
     },
@@ -125,30 +149,6 @@
       "name": "YB_Redbull",
       "type": "vehicle",
       "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 7,
-      "name": "YB_Drugs",
-      "type": "vehicle",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 5,
-      "name": "سكربت الفصل المطور",
-      "type": "other",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 8,
-      "name": "YB_Handcuff",
-      "type": "vehicle",
-      "version": "1.0",
       "enforce_version": false,
       "expires_at": null
     },
@@ -233,5 +233,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-10-22T04:19:01.755Z"
+  "updated_at": "2026-10-22T04:20:45.345Z"
 }
