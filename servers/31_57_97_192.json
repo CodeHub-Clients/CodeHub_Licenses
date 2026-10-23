@@ -10,6 +10,23 @@
       "server_name": "MZ1"
     }
   ],
-  "resources": [],
-  "updated_at": "2026-10-23T15:08:31.670Z"
+  "resources": [
+    {
+      "product_id": 46,
+      "name": "سرقة البنوك الصغيرة",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 19,
+      "name": "YB_ATM_Robbery",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": true,
+      "expires_at": null
+    }
+  ],
+  "updated_at": "2026-10-23T15:11:10.440Z"
 }
