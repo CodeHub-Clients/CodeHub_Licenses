@@ -1,7 +1,7 @@
 {
-  "total_ips": 85,
-  "total_users": 89,
-  "updated_at": "2026-10-23T08:18:36.592Z",
+  "total_ips": 86,
+  "total_users": 90,
+  "updated_at": "2026-10-23T08:23:49.616Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -922,6 +922,17 @@
         "مقاطعة الوعد"
       ],
       "total_resources": 2
+    },
+    {
+      "ip": "31.57.97.192",
+      "users_count": 1,
+      "owners": [
+        "flc.2"
+      ],
+      "server_names": [
+        "MZ1 مود الشرطة"
+      ],
+      "total_resources": 0
     },
     {
       "ip": "45.88.9.74",
