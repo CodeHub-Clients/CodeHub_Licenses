@@ -1,7 +1,7 @@
 {
   "total_ips": 86,
   "total_users": 90,
-  "updated_at": "2026-10-23T10:13:32.670Z",
+  "updated_at": "2026-10-23T10:18:33.101Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -930,7 +930,7 @@
         "flc.2"
       ],
       "server_names": [
-        "MZ1 مود الشرطة"
+        "MZ1"
       ],
       "total_resources": 0
     },
