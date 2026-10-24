@@ -1,9 +1,14 @@
 {
   "ip": "194.110.12.225",
-  "owner_discord_id": "652972840567439371",
-  "owner_name": "vd7me",
-  "server_name": "محافظة الرس",
+  "owner_discord_id": "548192595403210752",
+  "owner_name": "ybv10",
+  "server_name": "كود هوب",
   "owners": [
+    {
+      "discord_id": "548192595403210752",
+      "username": "ybv10",
+      "server_name": "كود هوب"
+    },
     {
       "discord_id": "652972840567439371",
       "username": "vd7me",
@@ -12,9 +17,49 @@
   ],
   "resources": [
     {
+      "product_id": 48,
+      "name": "مزاد المركبات",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 50,
       "name": "سكربت الستيكر المطور",
       "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 53,
+      "name": "نظام تملك المعارض والتجارة",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 24,
+      "name": "ch_AdvancedDealership ",
+      "type": "system",
+      "version": "2.0.6",
+      "enforce_version": true,
+      "expires_at": null
+    },
+    {
+      "product_id": 51,
+      "name": "سكربت مناطق الزومبي",
+      "type": "system",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
+      "product_id": 52,
+      "name": "حالة السيرفر المتطورة",
+      "type": "ui",
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
@@ -28,10 +73,10 @@
       "expires_at": null
     },
     {
-      "product_id": 51,
-      "name": "سكربت مناطق الزومبي",
+      "product_id": 47,
+      "name": "CodeHub_AdminJob | لوحة التحكم الإدارية",
       "type": "system",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "enforce_version": false,
       "expires_at": null
     },
@@ -44,18 +89,18 @@
       "expires_at": null
     },
     {
-      "product_id": 24,
-      "name": "ch_AdvancedDealership ",
-      "type": "system",
-      "version": "2.0.6",
-      "enforce_version": true,
+      "product_id": 54,
+      "name": "PD_Core",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
       "expires_at": null
     },
     {
-      "product_id": 47,
-      "name": "CodeHub_AdminJob | لوحة التحكم الإدارية",
-      "type": "system",
-      "version": "1.1.0",
+      "product_id": 55,
+      "name": "PD_GarageSystem",
+      "type": "vehicle",
+      "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
     },
@@ -80,14 +125,6 @@
       "name": "YB_MDT",
       "type": "vehicle",
       "version": "2.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
-      "product_id": 53,
-      "name": "نظام تملك المعارض والتجارة",
-      "type": "system",
-      "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
     },
@@ -324,14 +361,6 @@
       "expires_at": null
     },
     {
-      "product_id": 48,
-      "name": "مزاد المركبات",
-      "type": "system",
-      "version": "1.0.0",
-      "enforce_version": false,
-      "expires_at": null
-    },
-    {
       "product_id": 44,
       "name": "مسجل الصوت",
       "type": "system",
@@ -356,5 +385,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-10-24T22:07:34.207Z"
+  "updated_at": "2026-10-24T22:08:52.785Z"
 }
