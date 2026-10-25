@@ -1,7 +1,7 @@
 {
   "total_ips": 87,
   "total_users": 90,
-  "updated_at": "2026-10-25T22:14:17.589Z",
+  "updated_at": "2026-10-25T22:19:19.861Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -865,7 +865,7 @@
       "server_names": [
         "مقاطعة الـ70"
       ],
-      "total_resources": 2
+      "total_resources": 4
     },
     {
       "ip": "45.137.98.104",
