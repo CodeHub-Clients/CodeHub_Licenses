@@ -1,9 +1,9 @@
 {
-  "id": 57,
-  "name": "نظام الستريمر",
-  "slug": "نظام-الستريمر",
-  "type": "other",
-  "price": 30,
+  "id": 58,
+  "name": "نظام الحقيبة المطورة",
+  "slug": "نظام-الحقيبة-المطورة",
+  "type": "vehicle",
+  "price": 50,
   "discount_type": "none",
   "discount_value": null,
   "final_assets": {
@@ -14,5 +14,5 @@
   "stock": -1,
   "is_active": true,
   "version": "1.0.0",
-  "updated_at": "2026-10-20T03:55:20.676Z"
+  "updated_at": "2026-10-26T05:41:22.512Z"
 }
