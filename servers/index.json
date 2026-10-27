@@ -1,7 +1,7 @@
 {
   "total_ips": 87,
   "total_users": 90,
-  "updated_at": "2026-10-27T16:27:53.406Z",
+  "updated_at": "2026-10-27T16:32:58.189Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -571,7 +571,7 @@
       "total_resources": 1
     },
     {
-      "ip": "5.175.223.117",
+      "ip": "45.146.253.8",
       "users_count": 1,
       "owners": [
         "u_rr"
