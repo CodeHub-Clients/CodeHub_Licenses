@@ -381,12 +381,12 @@
     },
     {
       "product_id": 58,
-      "name": "نظام الحقيبة المطورة",
-      "type": "vehicle",
+      "name": "Advanced Inventory System",
+      "type": "system",
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
     }
   ],
-  "updated_at": "2026-10-27T12:30:53.725Z"
+  "updated_at": "2026-10-27T12:35:52.376Z"
 }
