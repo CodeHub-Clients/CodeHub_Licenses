@@ -378,7 +378,15 @@
       "version": "1.0.0",
       "enforce_version": true,
       "expires_at": null
+    },
+    {
+      "product_id": 58,
+      "name": "نظام الحقيبة المطورة",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-10-27T11:45:53.691Z"
+  "updated_at": "2026-10-27T11:50:52.487Z"
 }
