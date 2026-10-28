@@ -1,7 +1,7 @@
 {
-  "total_ips": 87,
-  "total_users": 90,
-  "updated_at": "2026-10-28T19:26:11.233Z",
+  "total_ips": 88,
+  "total_users": 91,
+  "updated_at": "2026-10-28T19:31:04.882Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -963,6 +963,17 @@
       ],
       "server_names": [
         "اكتفينا"
+      ],
+      "total_resources": 0
+    },
+    {
+      "ip": "212.107.14.15",
+      "users_count": 1,
+      "owners": [
+        "p1.z"
+      ],
+      "server_names": [
+        "مقاطعة سورف"
       ],
       "total_resources": 0
     }
