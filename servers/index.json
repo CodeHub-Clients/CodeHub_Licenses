@@ -1,7 +1,7 @@
 {
   "total_ips": 88,
   "total_users": 91,
-  "updated_at": "2026-10-29T22:13:56.190Z",
+  "updated_at": "2026-10-29T22:18:56.691Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -272,7 +272,7 @@
       "total_resources": 32
     },
     {
-      "ip": "212.115.101.36",
+      "ip": "81.208.171.80",
       "users_count": 1,
       "owners": [
         "alqima1"
