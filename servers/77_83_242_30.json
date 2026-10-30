@@ -194,7 +194,15 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 29,
+      "name": "YB_MDT",
+      "type": "vehicle",
+      "version": "2.0.0",
+      "enforce_version": false,
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-10-30T08:13:39.097Z"
+  "updated_at": "2026-10-30T08:15:04.511Z"
 }
