@@ -1,7 +1,7 @@
 {
-  "total_ips": 88,
-  "total_users": 91,
-  "updated_at": "2026-11-01T11:16:48.906Z",
+  "total_ips": 89,
+  "total_users": 92,
+  "updated_at": "2026-11-01T11:21:46.537Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -976,6 +976,17 @@
         "مقاطعة سورف"
       ],
       "total_resources": 0
+    },
+    {
+      "ip": "2.57.19.50",
+      "users_count": 1,
+      "owners": [
+        "lloosstt99"
+      ],
+      "server_names": [
+        "7RK PD"
+      ],
+      "total_resources": 19
     }
   ]
 }
