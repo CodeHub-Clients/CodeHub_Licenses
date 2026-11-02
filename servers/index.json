@@ -1,7 +1,7 @@
 {
   "total_ips": 90,
   "total_users": 93,
-  "updated_at": "2026-11-02T12:43:31.642Z",
+  "updated_at": "2026-11-02T12:48:31.427Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -26,7 +26,7 @@
       "total_resources": 14
     },
     {
-      "ip": "89.42.88.95",
+      "ip": "89.42.88.95:34784",
       "users_count": 1,
       "owners": [
         "ii5l_"
@@ -835,7 +835,7 @@
       "total_resources": 30
     },
     {
-      "ip": "192.168.92.1",
+      "ip": "46.52.23.248",
       "users_count": 1,
       "owners": [
         "oi.55"
