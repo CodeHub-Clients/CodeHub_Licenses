@@ -1,7 +1,7 @@
 {
-  "total_ips": 90,
-  "total_users": 93,
-  "updated_at": "2026-11-02T15:03:38.182Z",
+  "total_ips": 89,
+  "total_users": 92,
+  "updated_at": "2026-11-02T15:08:43.030Z",
   "servers": [
     {
       "ip": "104.28.155.178",
@@ -833,17 +833,6 @@
         " المنطقة الغربية تست"
       ],
       "total_resources": 30
-    },
-    {
-      "ip": "46.52.23.248",
-      "users_count": 1,
-      "owners": [
-        "oi.55"
-      ],
-      "server_names": [
-        "محافظه الشرق"
-      ],
-      "total_resources": 0
     },
     {
       "ip": "45.137.98.185",
