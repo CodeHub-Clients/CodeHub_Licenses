@@ -1,8 +1,19 @@
 {
-  "total_ips": 90,
-  "total_users": 93,
-  "updated_at": "2026-11-02T19:53:35.044Z",
+  "total_ips": 91,
+  "total_users": 94,
+  "updated_at": "2026-11-02T19:58:36.074Z",
   "servers": [
+    {
+      "ip": "123",
+      "users_count": 1,
+      "owners": [
+        "k6.3y"
+      ],
+      "server_names": [
+        "WK7"
+      ],
+      "total_resources": 0
+    },
     {
       "ip": "104.28.155.178",
       "users_count": 1,
