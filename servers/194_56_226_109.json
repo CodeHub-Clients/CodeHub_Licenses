@@ -36,6 +36,14 @@
       "expires_at": null
     },
     {
+      "product_id": 42,
+      "name": "نظام طائرات الدرونز",
+      "type": "vehicle",
+      "version": "1.0.1",
+      "enforce_version": false,
+      "expires_at": null
+    },
+    {
       "product_id": 58,
       "name": "Advanced Inventory System",
       "type": "system",
@@ -308,5 +316,5 @@
       "expires_at": null
     }
   ],
-  "updated_at": "2026-11-03T05:18:10.583Z"
+  "updated_at": "2026-11-03T05:20:05.027Z"
 }
