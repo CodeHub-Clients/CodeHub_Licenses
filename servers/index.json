@@ -1,7 +1,7 @@
 {
-  "total_ips": 91,
+  "total_ips": 92,
   "total_users": 94,
-  "updated_at": "2026-11-09T09:21:07.486Z",
+  "updated_at": "2026-11-09T09:31:01.579Z",
   "servers": [
     {
       "ip": "123",
@@ -27,6 +27,17 @@
     },
     {
       "ip": "194.110.12.225",
+      "users_count": 1,
+      "owners": [
+        "ybv10"
+      ],
+      "server_names": [
+        "كود هوب"
+      ],
+      "total_resources": 14
+    },
+    {
+      "ip": "212.34.13.197",
       "users_count": 1,
       "owners": [
         "ybv10"
