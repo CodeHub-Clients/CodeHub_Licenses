@@ -1,7 +1,7 @@
 {
-  "total_ips": 92,
-  "total_users": 94,
-  "updated_at": "2026-11-15T19:36:37.627Z",
+  "total_ips": 93,
+  "total_users": 95,
+  "updated_at": "2026-11-15T19:41:40.153Z",
   "servers": [
     {
       "ip": "123",
@@ -1020,6 +1020,17 @@
         "7RK PD"
       ],
       "total_resources": 19
+    },
+    {
+      "ip": "212.107.14.42",
+      "users_count": 1,
+      "owners": [
+        "_roii9"
+      ],
+      "server_names": [
+        "مقاطعة الحفرة"
+      ],
+      "total_resources": 0
     }
   ]
 }
