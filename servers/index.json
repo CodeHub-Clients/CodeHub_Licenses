@@ -1,7 +1,7 @@
 {
   "total_ips": 94,
   "total_users": 95,
-  "updated_at": "2026-11-18T14:01:01.366Z",
+  "updated_at": "2026-11-18T14:05:59.861Z",
   "servers": [
     {
       "ip": "123",
@@ -250,7 +250,7 @@
       "total_resources": 27
     },
     {
-      "ip": "45.88.9.92",
+      "ip": "77.83.242.137",
       "users_count": 1,
       "owners": [
         ".3bid"
