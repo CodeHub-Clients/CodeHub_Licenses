@@ -1,7 +1,7 @@
 {
   "total_ips": 94,
   "total_users": 95,
-  "updated_at": "2026-11-20T22:30:45.316Z",
+  "updated_at": "2026-11-20T22:35:44.065Z",
   "servers": [
     {
       "ip": "123",
@@ -15,7 +15,7 @@
       "total_resources": 0
     },
     {
-      "ip": "89.42.88.214",
+      "ip": "150.228.106.7",
       "users_count": 1,
       "owners": [
         "777m"
