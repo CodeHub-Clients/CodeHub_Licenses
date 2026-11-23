@@ -1,7 +1,7 @@
 {
-  "total_ips": 94,
-  "total_users": 95,
-  "updated_at": "2026-11-23T15:34:33.236Z",
+  "total_ips": 95,
+  "total_users": 96,
+  "updated_at": "2026-11-23T15:39:49.760Z",
   "servers": [
     {
       "ip": "123",
@@ -1040,6 +1040,17 @@
       ],
       "server_names": [
         "مقاطعة الحفرة"
+      ],
+      "total_resources": 0
+    },
+    {
+      "ip": "45.137.98.172",
+      "users_count": 1,
+      "owners": [
+        "qy_909"
+      ],
+      "server_names": [
+        "مود شرطة A2"
       ],
       "total_resources": 0
     }
