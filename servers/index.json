@@ -1,7 +1,7 @@
 {
   "total_ips": 95,
   "total_users": 96,
-  "updated_at": "2026-11-23T15:39:49.760Z",
+  "updated_at": "2026-11-23T15:44:39.151Z",
   "servers": [
     {
       "ip": "123",
@@ -1052,7 +1052,7 @@
       "server_names": [
         "مود شرطة A2"
       ],
-      "total_resources": 0
+      "total_resources": 2
     }
   ]
 }
